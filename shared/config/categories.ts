@@ -1,0 +1,24 @@
+import { Category } from "@shared/types/tool";
+
+export const CATEGORIES: Category[] = [
+  { id: "all", label: "All", color: "#a78bfa" },
+  { id: "coding", label: "Coding & Dev", color: "#34d399" },
+  { id: "design", label: "UI & Design", color: "#f472b6" },
+  { id: "gamedev", label: "Game Dev", color: "#fb923c" },
+  { id: "3d", label: "3D & Motion", color: "#38bdf8" },
+  { id: "audio-video", label: "Audio & Video", color: "#facc15" },
+  { id: "productivity", label: "Productivity", color: "#c084fc" },
+];
+
+export const PRICING_OPTIONS = [
+  { id: "all", label: "All Pricing" },
+  { id: "free", label: "Free" },
+  { id: "freemium", label: "Freemium" },
+  { id: "open-source", label: "Open Source" },
+  { id: "paid", label: "Paid" },
+  { id: "upcoming", label: "Upcoming" },
+] as const;
+
+export const accentMap: Record<string, string> = Object.fromEntries(
+  CATEGORIES.map((c) => [c.id, c.color])
+);
