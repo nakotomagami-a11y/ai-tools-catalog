@@ -3,6 +3,10 @@ import { Category } from "@shared/types/tool";
 export const CATEGORIES: Category[] = [
   { id: "all", label: "All", color: "#a78bfa" },
   { id: "coding", label: "Coding & Dev", color: "#34d399" },
+  { id: "security", label: "Security", color: "#ef4444" },
+  { id: "marketing", label: "Marketing & SEO", color: "#f97316" },
+  { id: "finance", label: "Finance & Trading", color: "#10b981" },
+  { id: "data", label: "Data & Analytics", color: "#06b6d4" },
   { id: "design", label: "UI & Design", color: "#f472b6" },
   { id: "gamedev", label: "Game Dev", color: "#fb923c" },
   { id: "3d", label: "3D & Motion", color: "#38bdf8" },
