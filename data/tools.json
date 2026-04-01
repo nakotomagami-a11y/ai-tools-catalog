@@ -4683,6 +4683,160 @@
       ],
       "pricing": "freemium",
       "isNew": true
+    },
+    {
+      "name": "NxCode",
+      "url": "https://www.nxcode.io",
+      "description": "AI app builder that generates full-stack applications from plain English descriptions, with automated testing and one-click deployment.",
+      "category": "coding",
+      "tags": [
+        "app-builder",
+        "full-stack",
+        "no-code",
+        "deployment"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "MailMaestro",
+      "url": "https://www.maestrolabs.com/",
+      "description": "AI email copilot for Outlook and Gmail that auto-categorizes messages, summarizes threads, and drafts context-aware replies.",
+      "category": "productivity",
+      "tags": [
+        "email",
+        "writing-assistant",
+        "outlook",
+        "gmail"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Moonchild AI",
+      "url": "https://moonchild.ai/",
+      "description": "AI design tool for product teams that generates multi-screen UI flows respecting your design system tokens, with Figma export.",
+      "category": "design",
+      "tags": [
+        "product-design",
+        "design-system",
+        "ui-generation",
+        "prototyping"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Flowstep",
+      "url": "https://flowstep.ai/",
+      "description": "AI design assistant with an infinite canvas that turns natural language into editable UI screens, exporting clean React/TypeScript/Tailwind code.",
+      "category": "design",
+      "tags": [
+        "ui-design",
+        "code-export",
+        "react",
+        "infinite-canvas"
+      ],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "Magic Patterns",
+      "url": "https://www.magicpatterns.com/",
+      "description": "AI prototyping tool used by 1,500+ product teams that turns text prompts into interactive, production-ready UI components with real code output.",
+      "category": "design",
+      "tags": [
+        "prototyping",
+        "ui-components",
+        "code-generation",
+        "design-system"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Spacely AI",
+      "url": "https://www.spacely.ai/",
+      "description": "AI-powered spatial design workspace for interior designers and architects, generating photorealistic renders in under 60 seconds.",
+      "category": "design",
+      "tags": [
+        "interior-design",
+        "architecture",
+        "rendering",
+        "spatial"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Higgsfield",
+      "url": "https://higgsfield.ai/",
+      "description": "AI Cinema Studio aggregating 15+ video models (Kling, Veo, Sora, WAN) in one workspace with virtual camera controls and professional post-production.",
+      "category": "audio-video",
+      "tags": [
+        "video-production",
+        "cinematic",
+        "multi-model",
+        "professional"
+      ],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "ACE-Step",
+      "url": "https://acestep.io/",
+      "description": "Open-source music generation model that generates full songs in under 2 seconds, supporting 50+ languages and LoRA fine-tuning. MIT licensed.",
+      "category": "audio-video",
+      "tags": [
+        "music-generation",
+        "open-source",
+        "fast",
+        "local-ai"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Soundverse",
+      "url": "https://www.soundverse.ai/",
+      "description": "AI music generator trusted by 3M+ creators producing fully-produced tracks with studio-grade vocals from text prompts or hummed melodies.",
+      "category": "audio-video",
+      "tags": [
+        "music-generation",
+        "vocals",
+        "text-to-music",
+        "production"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Sora 2",
+      "url": "https://openai.com/sora/",
+      "description": "OpenAI's advanced video generation model with multi-shot generation, audio support, improved character consistency, and extended duration videos.",
+      "category": "audio-video",
+      "tags": [
+        "text-to-video",
+        "openai",
+        "multi-shot",
+        "audio-generation"
+      ],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "MiniMax Music",
+      "url": "https://www.minimax.io/",
+      "description": "AI music generation model from MiniMax producing high-quality full songs with vocals, recognized alongside Suno and Udio as top-tier.",
+      "category": "audio-video",
+      "tags": [
+        "music-generation",
+        "vocals",
+        "ai-composition",
+        "songs"
+      ],
+      "pricing": "freemium",
+      "isNew": true
     }
   ]
 }
