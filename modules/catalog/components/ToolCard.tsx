@@ -34,7 +34,10 @@ export function ToolCard({ tool, index }: ToolCardProps) {
       }
     >
       <div className="card-header">
-        <span className="card-name">{tool.name}</span>
+        <span className="card-name">
+          {tool.isNew && <span className="badge badge-new">New</span>}
+          {tool.name}
+        </span>
         <span className={badgeClass}>{PRICING_LABELS[tool.pricing] || tool.pricing}</span>
       </div>
 

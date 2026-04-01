@@ -7,7 +7,7 @@ export function useFilters(tools: Tool[]) {
   const [searchQuery, setSearchQuery] = useState("");
 
   const filtered = useMemo(() => {
-    return tools.filter((tool) => {
+    const result = tools.filter((tool) => {
       if (activeCategory !== "all" && tool.category !== activeCategory) return false;
       if (activePricing !== "all" && tool.pricing !== activePricing) return false;
       if (searchQuery) {
@@ -18,6 +18,8 @@ export function useFilters(tools: Tool[]) {
       }
       return true;
     });
+    // Sort: new items first, then preserve original order
+    return result.sort((a, b) => (b.isNew ? 1 : 0) - (a.isNew ? 1 : 0));
   }, [tools, activeCategory, activePricing, searchQuery]);
 
   return {

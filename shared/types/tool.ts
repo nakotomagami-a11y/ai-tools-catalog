@@ -7,6 +7,7 @@ export interface Tool {
   pricing: "free" | "freemium" | "open-source" | "paid" | "upcoming";
   price?: string;
   status?: string;
+  isNew?: boolean;
 }
 
 export interface Category {
