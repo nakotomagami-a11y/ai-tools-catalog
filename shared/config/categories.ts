@@ -15,6 +15,7 @@ export const CATEGORIES: Category[] = [
   { id: "robotics", label: "Robotics & Physical AI", color: "#14b8a6" },
   { id: "science", label: "Science & Research", color: "#8b5cf6" },
   { id: "infrastructure", label: "AI Infrastructure", color: "#64748b" },
+  { id: "education", label: "Education", color: "#f59e0b" },
 ];
 
 export const PRICING_OPTIONS = [

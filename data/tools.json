@@ -69,6 +69,11 @@
       "id": "infrastructure",
       "label": "AI Infrastructure",
       "color": "#64748b"
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "color": "#f59e0b"
     }
   ],
   "tools": [
@@ -5163,6 +5168,454 @@
       "category": "science",
       "tags": ["drug-discovery", "deepmind", "molecular-ai", "pharmaceutical"],
       "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Manus AI",
+      "url": "https://manus.im/",
+      "description": "General-purpose AI agent that autonomously executes complex multi-step tasks across documents, coding, and web browsing. Went viral in early 2025.",
+      "category": "productivity",
+      "tags": ["ai-agent", "autonomous", "multi-step", "task-execution"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "OpenAI Operator",
+      "url": "https://operator.chatgpt.com/",
+      "description": "ChatGPT-integrated browser agent that auto-pilots web tasks like booking, purchasing, and account management.",
+      "category": "productivity",
+      "tags": ["browser-agent", "automation", "computer-use", "openai"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "MultiOn",
+      "url": "https://multion.ai/",
+      "description": "Autonomous web agent API that handles transactional tasks like booking flights and filling forms across websites.",
+      "category": "coding",
+      "tags": ["browser-automation", "api", "web-agent", "developer-tools"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Open-source Python library for controlling browsers with AI agents using plain language instructions. Bring your own LLM.",
+      "category": "coding",
+      "tags": ["browser-automation", "python", "open-source", "agents"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "TypeScript AI web automation extending Playwright with AI helper methods (act, extract, observe) for dynamic elements.",
+      "category": "coding",
+      "tags": ["typescript", "playwright", "browser-automation", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Skyvern",
+      "url": "https://skyvern.com/",
+      "description": "AI browser automation using LLMs and computer vision with a no-code workflow builder. Top performer on form-filling benchmarks.",
+      "category": "coding",
+      "tags": ["browser-automation", "computer-vision", "no-code", "workflow"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Lindy AI",
+      "url": "https://lindy.ai/",
+      "description": "No-code AI agent builder for business workflows: outbound campaigns, lead qualification, inbox triage, and CRM updates.",
+      "category": "productivity",
+      "tags": ["no-code", "ai-agents", "business-automation", "workflow"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "CrewAI",
+      "url": "https://crewai.com/",
+      "description": "Framework for building teams of AI agents that plan, reason, and collaborate on complex multi-agent workflows.",
+      "category": "coding",
+      "tags": ["multi-agent", "framework", "orchestration", "python"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Hume AI",
+      "url": "https://hume.ai/",
+      "description": "Emotionally intelligent voice AI with the Octave TTS model. Understands and generates speech with rich emotional expression.",
+      "category": "audio-video",
+      "tags": ["voice-ai", "emotional-intelligence", "tts", "conversational"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Cartesia",
+      "url": "https://cartesia.ai/",
+      "description": "Real-time voice synthesis with 40-90ms latency (Sonic-3). Supports laughter, breathing, emotional inflections across 15+ languages.",
+      "category": "audio-video",
+      "tags": ["real-time-voice", "tts", "low-latency", "voice-agents"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "PlayHT",
+      "url": "https://play.ht/",
+      "description": "Enterprise-grade text-to-speech with custom voice training, multi-language support, and scalable API.",
+      "category": "audio-video",
+      "tags": ["tts", "voice-cloning", "enterprise", "api"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "LMNT",
+      "url": "https://lmnt.com/",
+      "description": "Fast voice cloning from 5-second audio clips. Indie plan at $10/month with no concurrency limits. Great for game dev.",
+      "category": "audio-video",
+      "tags": ["voice-cloning", "tts", "affordable", "game-dev"],
+      "pricing": "freemium",
+      "price": "$10/mo",
+      "isNew": true
+    },
+    {
+      "name": "Fish Audio",
+      "url": "https://fish.audio/",
+      "description": "Voice cloning from 10 seconds of audio with 48+ emotional expressions. Cross-language voice transfer and multilingual support.",
+      "category": "audio-video",
+      "tags": ["voice-cloning", "multilingual", "emotional-tts", "open-source"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Sesame AI",
+      "url": "https://sesame.com/",
+      "description": "Conversational speech model crossing the uncanny valley with natural pauses, tonal emphasis, and emotional responsiveness.",
+      "category": "audio-video",
+      "tags": ["conversational-ai", "voice-companion", "natural-speech", "research"],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "Exa",
+      "url": "https://exa.ai/",
+      "description": "AI search engine for retrieving original sources (research papers, code repos, deep web) rather than SEO-optimized summaries. Developer API.",
+      "category": "productivity",
+      "tags": ["search-engine", "api", "research", "developer-tools"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "You.com",
+      "url": "https://you.com/",
+      "description": "AI search with 30+ specialized agents for research, writing, and coding. Web app, mobile, and Chrome extension.",
+      "category": "productivity",
+      "tags": ["ai-search", "multi-agent", "research", "general-purpose"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Phind",
+      "url": "https://phind.com/",
+      "description": "Developer-focused AI search with VS Code integration. Searches docs, GitHub threads, and technical blogs with code-aware reasoning.",
+      "category": "coding",
+      "tags": ["developer-search", "code-aware", "vscode", "documentation"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Kagi",
+      "url": "https://kagi.com/",
+      "description": "Ad-free, tracker-free paid search engine. Filters out SEO clutter for clean, relevant results with an integrated AI assistant.",
+      "category": "productivity",
+      "tags": ["privacy-search", "ad-free", "quality-search", "ai-assistant"],
+      "pricing": "paid",
+      "price": "$10/mo",
+      "isNew": true
+    },
+    {
+      "name": "Sudowrite",
+      "url": "https://sudowrite.com/",
+      "description": "AI writing partner for fiction authors with its custom Muse model fine-tuned on published novels. Preferred 2x over Claude for fiction prose.",
+      "category": "productivity",
+      "tags": ["fiction-writing", "creative-ai", "novel", "storytelling"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "NovelAI",
+      "url": "https://novelai.net/",
+      "description": "Storytelling AI using its custom Kayra model with minimal content filters. Ideal for horror, dark fiction, and complex narratives.",
+      "category": "productivity",
+      "tags": ["fiction-writing", "storytelling", "creative-ai", "novel"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Squibler",
+      "url": "https://squibler.io/",
+      "description": "Structured AI writing platform for novelists and screenwriters. Character, plot, and chapter frameworks before generating content.",
+      "category": "productivity",
+      "tags": ["novel-writing", "screenplay", "structured-writing", "fiction"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Photoroom",
+      "url": "https://photoroom.com/",
+      "description": "AI product photography for e-commerce. Background removal in 450ms, outperforming competitors. Built for marketplace sellers.",
+      "category": "design",
+      "tags": ["photo-editing", "ecommerce", "background-removal", "product-photos"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Clipdrop",
+      "url": "https://clipdrop.co/",
+      "description": "Swiss Army knife of AI image tools by Stability AI: background removal, upscaling up to 16x, inpainting, and text-prompted backgrounds.",
+      "category": "design",
+      "tags": ["photo-editing", "upscaling", "background-removal", "stable-diffusion"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Luminar Neo",
+      "url": "https://skylum.com/luminar",
+      "description": "AI photo editor with one-click sky replacement, portrait retouching, bokeh simulation, and lighting adjustments. Photoshop alternative.",
+      "category": "design",
+      "tags": ["photo-editing", "photography", "sky-replacement", "portrait"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Pitch",
+      "url": "https://pitch.com/",
+      "description": "Collaborative presentation tool for startup teams and sales decks with AI generation and real-time team editing.",
+      "category": "productivity",
+      "tags": ["presentations", "collaboration", "sales-decks", "startup"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "SlidesAI",
+      "url": "https://slidesai.io/",
+      "description": "AI presentation generator that works inside Google Slides and PowerPoint. Generate or edit slides in the apps you already use.",
+      "category": "productivity",
+      "tags": ["presentations", "google-slides", "powerpoint", "ai-generation"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Tome",
+      "url": "https://tome.app/",
+      "description": "AI-powered sales enablement tool generating sales-focused presentations and content from prompts for B2B teams.",
+      "category": "marketing",
+      "tags": ["sales-enablement", "presentations", "ai-content", "b2b"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "D-ID",
+      "url": "https://d-id.com/",
+      "description": "Create lifelike AI avatars from images and videos with sub-2-second response. Used for customer-facing video, training, and marketing.",
+      "category": "audio-video",
+      "tags": ["ai-avatars", "digital-humans", "video-generation", "lip-sync"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Colossyan",
+      "url": "https://colossyan.com/",
+      "description": "AI avatar platform for training videos with branching scenarios, quizzes, and SCORM export. 150+ avatars, 80+ languages.",
+      "category": "audio-video",
+      "tags": ["training-videos", "ai-avatars", "elearning", "enterprise"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Snaptrude",
+      "url": "https://snaptrude.com/",
+      "description": "Cloud-based AI building design tool analyzing zoning, codes, and site conditions to generate 3D architectural models from text.",
+      "category": "3d",
+      "tags": ["architecture", "cad", "building-design", "3d-modeling"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "TestFit",
+      "url": "https://testfit.io/",
+      "description": "AI site planning and feasibility analysis for architects. Generates building massings, unit layouts, parking, and financial pro formas.",
+      "category": "3d",
+      "tags": ["site-planning", "feasibility", "architecture", "real-estate"],
+      "pricing": "paid",
+      "price": "$250/mo",
+      "isNew": true
+    },
+    {
+      "name": "Hypar",
+      "url": "https://hypar.io/",
+      "description": "Encode design rules into reusable AI templates that auto-generate full building designs. Great for modular construction.",
+      "category": "3d",
+      "tags": ["generative-design", "modular-construction", "building-codes", "automation"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Julius AI",
+      "url": "https://julius.ai/",
+      "description": "Upload CSV or connect a database, ask questions in plain English, get charts and statistical summaries. No code required.",
+      "category": "data",
+      "tags": ["data-analysis", "no-code", "visualization", "natural-language"],
+      "pricing": "freemium",
+      "price": "$20/mo",
+      "isNew": true
+    },
+    {
+      "name": "Hex",
+      "url": "https://hex.tech/",
+      "description": "Collaborative notebook combining SQL + Python/R with AI assistance, version control, scheduling, and interactive reports.",
+      "category": "data",
+      "tags": ["data-notebook", "sql", "python", "collaboration"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Observable",
+      "url": "https://observablehq.com/",
+      "description": "JavaScript-based reactive notebook where cells auto-update when dependencies change. Built for interactive data visualizations.",
+      "category": "data",
+      "tags": ["data-visualization", "javascript", "reactive", "notebooks"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Scite",
+      "url": "https://scite.ai/",
+      "description": "Evaluates the strength of scientific claims by analyzing how papers cite each other — supporting, contradicting, or mentioning.",
+      "category": "science",
+      "tags": ["academic-research", "citation-analysis", "evidence-evaluation", "science"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Paperguide",
+      "url": "https://paperguide.ai/",
+      "description": "AI academic research tool for paper discovery, summarization, and literature review with citation management.",
+      "category": "science",
+      "tags": ["academic-research", "paper-discovery", "literature-review", "citations"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Afforai",
+      "url": "https://afforai.com/",
+      "description": "AI research assistant for multi-document Q&A with citation tracking. Upload papers for cross-reference analysis.",
+      "category": "productivity",
+      "tags": ["research", "document-qa", "citations", "knowledge-management"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Mastra",
+      "url": "https://mastra.ai/",
+      "description": "TypeScript-first AI agent framework. Leading choice for TS teams building multi-agent orchestration in 2026.",
+      "category": "coding",
+      "tags": ["typescript", "agent-framework", "orchestration", "developer-tools"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Relevance AI",
+      "url": "https://relevanceai.com/",
+      "description": "Low-code AI agent builder for business teams. Visual workflow editor for e-commerce, support, and analytics automation.",
+      "category": "productivity",
+      "tags": ["no-code", "ai-agents", "business-automation", "low-code"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Dust",
+      "url": "https://dust.tt/",
+      "description": "Team AI platform connecting Slack, Notion, Google Drive, and GitHub to keep company knowledge queryable via AI agents.",
+      "category": "productivity",
+      "tags": ["knowledge-management", "team-ai", "integrations", "enterprise"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Google Genie 3",
+      "url": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
+      "description": "DeepMind's real-time interactive world model generating persistent 3D environments from text and images. Groundbreaking research.",
+      "category": "3d",
+      "tags": ["world-model", "3d-generation", "interactive", "deepmind"],
+      "pricing": "upcoming",
+      "status": "Research Preview",
+      "isNew": true
+    },
+    {
+      "name": "Warp Terminal",
+      "url": "https://warp.dev/",
+      "description": "AI-native terminal with built-in command suggestions, natural language to shell, and collaborative terminal sharing for teams.",
+      "category": "coding",
+      "tags": ["terminal", "ai-assistant", "developer-tools", "collaboration"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Pieces for Developers",
+      "url": "https://pieces.app/",
+      "description": "AI-powered developer productivity tool that captures, enriches, and reuses code snippets with context across your workflow.",
+      "category": "coding",
+      "tags": ["code-snippets", "developer-productivity", "context-aware", "workflow"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Voiceflow",
+      "url": "https://voiceflow.com/",
+      "description": "Enterprise platform for building AI voice and chat agents with visual workflow builder, team collaboration, and knowledge base.",
+      "category": "productivity",
+      "tags": ["voice-agents", "chatbots", "no-code", "enterprise"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Gumloop",
+      "url": "https://gumloop.com/",
+      "description": "Visual AI automation builder — describe workflows in natural language and it generates automation pipelines. Trending no-code agent builder.",
+      "category": "productivity",
+      "tags": ["automation", "no-code", "visual-builder", "ai-agents"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Khanmigo",
+      "url": "https://khanmigo.ai/",
+      "description": "Khan Academy's GPT-4 powered AI tutor using Socratic method. Guides students through problems without giving answers.",
+      "category": "education",
+      "tags": ["tutoring", "k12", "socratic-method", "learning"],
+      "pricing": "paid",
+      "price": "$44/yr",
+      "isNew": true
+    },
+    {
+      "name": "Duolingo Max",
+      "url": "https://duolingo.com/",
+      "description": "AI-enhanced language learning with deep-dive answer explanations and freeform AI roleplay conversations in target languages.",
+      "category": "education",
+      "tags": ["language-learning", "roleplay", "tutoring", "ai-conversation"],
+      "pricing": "paid",
+      "price": "$13.99/mo",
+      "isNew": true
+    },
+    {
+      "name": "Photomath",
+      "url": "https://photomath.com/",
+      "description": "Point your camera at a math problem and get step-by-step solutions with explanations. Now integrated with Google's AI reasoning.",
+      "category": "education",
+      "tags": ["math-solver", "camera", "step-by-step", "mobile"],
+      "pricing": "freemium",
       "isNew": true
     }
   ]
