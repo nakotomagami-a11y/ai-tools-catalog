@@ -54,6 +54,21 @@
       "id": "finance",
       "label": "Finance & Trading",
       "color": "#10b981"
+    },
+    {
+      "id": "robotics",
+      "label": "Robotics & Physical AI",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "science",
+      "label": "Science & Research",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "infrastructure",
+      "label": "AI Infrastructure",
+      "color": "#64748b"
     }
   ],
   "tools": [
@@ -4836,6 +4851,318 @@
         "songs"
       ],
       "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "World Labs",
+      "url": "https://www.worldlabs.ai/",
+      "description": "Fei-Fei Li's spatial intelligence lab. Generates explorable 3D worlds from text, images, or video using the Marble world model.",
+      "category": "3d",
+      "tags": ["3d-worlds", "spatial-intelligence", "world-model", "generative"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "TRELLIS",
+      "url": "https://github.com/microsoft/TRELLIS",
+      "description": "Microsoft Research's 4B-param 3D asset generator (CVPR'25 Spotlight). Creates high-fidelity meshes, radiance fields, and 3D Gaussians in ~3 seconds.",
+      "category": "3d",
+      "tags": ["3d-generation", "image-to-3d", "open-source", "microsoft"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Luma Genie",
+      "url": "https://lumalabs.ai/genie",
+      "description": "Luma AI's text-to-3D foundation model. Generates detailed 3D models with quad meshes and PBR materials in under 10 seconds.",
+      "category": "3d",
+      "tags": ["text-to-3d", "3d-assets", "game-dev", "rapid-prototyping"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Masterpiece X",
+      "url": "https://www.masterpiecex.com/",
+      "description": "AI co-pilot for 3D scene creation. Generates and animates 3D models from text, exports OBJ/FBX/GLB for Unity and Unreal.",
+      "category": "3d",
+      "tags": ["3d-generation", "game-assets", "animation", "text-to-3d"],
+      "pricing": "freemium",
+      "price": "$20/mo",
+      "isNew": true
+    },
+    {
+      "name": "NVIDIA Cosmos",
+      "url": "https://www.nvidia.com/en-us/ai/cosmos/",
+      "description": "World foundation model platform for physical AI. Generates physics-based videos up to 30s for robotics simulation and autonomous driving.",
+      "category": "3d",
+      "tags": ["world-model", "physical-ai", "simulation", "nvidia"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Luma Ray 3",
+      "url": "https://lumalabs.ai/ray",
+      "description": "First video model with visual reasoning. Native 1080p, 4x faster, HDR 16-bit EXR output, keyframe control, and character consistency.",
+      "category": "audio-video",
+      "tags": ["video-generation", "hdr", "reasoning", "cinematic"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Hunyuan Video",
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+      "description": "Tencent's open-source 8.3B-param video model that runs on consumer GPUs. Includes image-to-video, avatar, and custom variants.",
+      "category": "audio-video",
+      "tags": ["open-source", "video-generation", "consumer-gpu", "text-to-video"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Midjourney Video",
+      "url": "https://www.midjourney.com/",
+      "description": "Midjourney's first video model. Image-to-video with manual and automatic animation controls, low/high motion settings.",
+      "category": "audio-video",
+      "tags": ["image-to-video", "animation", "creative", "midjourney"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "GPT Image 1.5",
+      "url": "https://platform.openai.com/docs/guides/image-generation",
+      "description": "OpenAI's autoregressive image model (successor to DALL-E). 4x faster, 20% cheaper API, image-to-image transforms, and viral Ghibli-style capability.",
+      "category": "design",
+      "tags": ["image-generation", "autoregressive", "openai", "text-to-image"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Google Imagen 4",
+      "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview",
+      "description": "Google's latest image model with best-in-class text rendering accuracy and 3-5 second generation via the Flash variant.",
+      "category": "design",
+      "tags": ["image-generation", "text-rendering", "google", "fast"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Grok Imagine",
+      "url": "https://x.ai/",
+      "description": "xAI's image and video generation API. Text-to-video, image-to-video, and video editing at $0.05/second with 10s 720p clips.",
+      "category": "design",
+      "tags": ["xai", "image-generation", "video-generation", "grok"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "JetBrains Junie",
+      "url": "https://www.jetbrains.com/junie/",
+      "description": "AI coding agent on the IntelliJ Platform. Takes whole tasks in natural language, plans, writes code, and iterates with MCP support.",
+      "category": "coding",
+      "tags": ["coding-agent", "jetbrains", "ide", "agentic"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Wondera",
+      "url": "https://www.wondera.ai/",
+      "description": "Conversational AI music platform ranked #1 in Meta benchmarks. Voice cloning, 10+ instrument stem separation, 48kHz studio audio, and DAW plugin.",
+      "category": "audio-video",
+      "tags": ["music-generation", "conversational", "studio-quality", "stems"],
+      "pricing": "freemium",
+      "price": "$14/mo",
+      "isNew": true
+    },
+    {
+      "name": "Google Lyria 3",
+      "url": "https://deepmind.google/models/lyria/",
+      "description": "DeepMind's music model generating full 3-minute songs with structure awareness, tempo conditioning, time-aligned lyrics, and image-to-music.",
+      "category": "audio-video",
+      "tags": ["music-generation", "google", "full-songs", "multimodal"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Gemini Deep Research",
+      "url": "https://gemini.google/overview/deep-research/",
+      "description": "Google's agent on Gemini 3 Pro for autonomous long-running research synthesis. Leads DeepResearch Bench with available Interactions API.",
+      "category": "productivity",
+      "tags": ["deep-research", "agent", "synthesis", "google"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "OpenAI Deep Research",
+      "url": "https://openai.com/index/introducing-deep-research/",
+      "description": "Autonomous research agent in ChatGPT that browses, reads, and synthesizes web information into comprehensive research reports.",
+      "category": "productivity",
+      "tags": ["deep-research", "agent", "synthesis", "openai"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "NVIDIA Isaac",
+      "url": "https://developer.nvidia.com/isaac",
+      "description": "Full-stack robotics platform — Isaac Sim, Isaac Lab, GR00T foundation model for humanoid reasoning, and Newton Physics Engine.",
+      "category": "robotics",
+      "tags": ["robotics", "simulation", "foundation-model", "nvidia"],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "Skild AI",
+      "url": "https://www.skild.ai/",
+      "description": "Unified robotics foundation model controlling any robot form factor — quadrupeds, humanoids, arms, mobile manipulators. $1.4B raised.",
+      "category": "robotics",
+      "tags": ["robotics", "foundation-model", "universal-brain", "physical-ai"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Figure AI",
+      "url": "https://www.figure.ai/",
+      "description": "Humanoid robots (Figure 01-03) with Helix vision-language-action model controlling multiple robots simultaneously. Valued at $39B.",
+      "category": "robotics",
+      "tags": ["humanoid-robot", "physical-ai", "autonomous", "manufacturing"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "1X NEO",
+      "url": "https://www.1x.tech/",
+      "description": "Consumer humanoid robot using the 1X World Model for autonomous chores, conversations, and task learning. Ships 2026.",
+      "category": "robotics",
+      "tags": ["humanoid-robot", "consumer", "home-assistant", "world-model"],
+      "pricing": "paid",
+      "price": "$20,000",
+      "status": "Coming 2026",
+      "isNew": true
+    },
+    {
+      "name": "AlphaFold 3",
+      "url": "https://deepmind.google/technologies/alphafold/",
+      "description": "Predicts structures of proteins, DNA, RNA, ligands, and their interactions using diffusion architecture. Expanded to full biomolecular complexes.",
+      "category": "science",
+      "tags": ["protein-prediction", "drug-discovery", "deepmind", "molecular"],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "Boltz-2",
+      "url": "https://github.com/jwohlwend/boltz",
+      "description": "Open-source model predicting protein structure and binding affinity in 20 seconds on a single GPU. Drops prediction cost from ~$100 to cents.",
+      "category": "science",
+      "tags": ["drug-discovery", "binding-affinity", "molecular-ai", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Google AI Co-Scientist",
+      "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+      "description": "Multi-agent system on Gemini 2.0 that generates hypotheses, designs experiments, and drafts research proposals autonomously.",
+      "category": "science",
+      "tags": ["research", "hypothesis-generation", "multi-agent", "gemini"],
+      "pricing": "free",
+      "status": "Trusted Tester",
+      "isNew": true
+    },
+    {
+      "name": "GenCast",
+      "url": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions/",
+      "description": "DeepMind's diffusion-based weather model delivering 15-day ensemble forecasts in ~8 minutes, outperforming ECMWF in 97%+ of tests.",
+      "category": "science",
+      "tags": ["weather-forecasting", "climate", "deepmind", "diffusion"],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "Microsoft Aurora",
+      "url": "https://www.microsoft.com/en-us/research/project/aurora/",
+      "description": "AI weather model outperforming ECMWF in 90%+ of tests. 15-20% more accurate than top traditional models for hurricane prediction.",
+      "category": "science",
+      "tags": ["weather-forecasting", "climate", "microsoft", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Groq Cloud",
+      "url": "https://groq.com/",
+      "description": "Ultra-fast inference on custom LPU chips. Llama 70B at 300 tok/sec (10x H100). Free tier with OpenAI-compatible API.",
+      "category": "infrastructure",
+      "tags": ["inference", "lpu", "ultra-fast", "api"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Cerebras Inference",
+      "url": "https://cerebras.ai/inference",
+      "description": "Wafer-scale processor inference cloud. 1,000+ tok/sec for Llama 405B. Free tier (24M tokens/day) with OpenAI-compatible API.",
+      "category": "infrastructure",
+      "tags": ["inference", "wafer-scale", "ultra-fast", "api"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Together AI",
+      "url": "https://www.together.ai/",
+      "description": "AI-native cloud for 200+ open-source models. Serverless inference, dedicated endpoints, batch processing with 50% discount.",
+      "category": "infrastructure",
+      "tags": ["inference", "open-source-models", "cloud", "api"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Fireworks AI",
+      "url": "https://fireworks.ai/",
+      "description": "Production inference platform optimized for compound AI systems. Sub-100ms latency, function calling, and structured JSON output at scale.",
+      "category": "infrastructure",
+      "tags": ["inference", "production", "low-latency", "api"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Replicate",
+      "url": "https://replicate.com/",
+      "description": "Run open-source ML models in the cloud with a single API call. Hosts thousands of models including Flux, Llama, and Whisper.",
+      "category": "infrastructure",
+      "tags": ["inference", "open-source-models", "api", "serverless"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Modal",
+      "url": "https://modal.com/",
+      "description": "Serverless cloud for AI/ML. Run GPU workloads with zero infrastructure — just write Python. Popular for fine-tuning, batch inference, and pipelines.",
+      "category": "infrastructure",
+      "tags": ["serverless", "gpu-cloud", "ml-ops", "python"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Unitree Go2",
+      "url": "https://www.unitree.com/go2/",
+      "description": "AI-powered quadruped robot with lidar, depth cameras, and GPT integration. Used for research, patrol, and companion robotics.",
+      "category": "robotics",
+      "tags": ["quadruped", "robot-dog", "research", "autonomous"],
+      "pricing": "paid",
+      "price": "$1,600",
+      "isNew": true
+    },
+    {
+      "name": "Boston Dynamics Spot",
+      "url": "https://bostondynamics.com/products/spot/",
+      "description": "Industry-leading quadruped robot for inspection, data collection, and hazardous environment navigation with AI-powered autonomy.",
+      "category": "robotics",
+      "tags": ["quadruped", "industrial", "inspection", "autonomous"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/",
+      "description": "Google DeepMind spin-off's drug discovery engine outperforming AlphaFold 3 on binding affinity prediction. Described as 'AlphaFold 4' by researchers.",
+      "category": "science",
+      "tags": ["drug-discovery", "deepmind", "molecular-ai", "pharmaceutical"],
+      "pricing": "paid",
       "isNew": true
     }
   ]

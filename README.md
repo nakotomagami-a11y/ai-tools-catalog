@@ -1,6 +1,6 @@
 # AI Tools Catalog
 
-A curated catalog of **254 AI tools** across 6 categories — discover the best AI-powered tools for coding, design, game development, 3D, audio/video, and productivity.
+A curated catalog of **358 AI tools** across 13 categories — discover the best AI-powered tools for coding, design, 3D, audio/video, productivity, robotics, science, infrastructure, and more.
 
 **[Live Demo](https://arturas.digital/lab/ai-tools-catalog/)**
 
@@ -12,16 +12,23 @@ A curated catalog of **254 AI tools** across 6 categories — discover the best 
 
 | Category | Tools | Examples |
 |----------|-------|---------|
-| **Productivity** | 58 | AI assistants, search, writing, research, automation |
-| **Coding & Dev** | 46 | Code completion, IDEs, CLI, testing, DevOps, security |
-| **Design** | 45 | Design-to-code, image generation, prototyping, UI tools |
-| **3D & Motion** | 44 | 3D generation, Blender tools, mocap, NeRF, rigging |
-| **Audio & Video** | 34 | Music gen, video editing, transcription, voice/TTS |
+| **Productivity** | 62 | AI assistants, search, writing, research, automation |
+| **Coding & Dev** | 59 | Code completion, IDEs, CLI, testing, DevOps, agents |
+| **UI & Design** | 57 | Design-to-code, image generation, prototyping, UI tools |
+| **3D & Motion** | 50 | 3D generation, Blender tools, mocap, NeRF, rigging |
+| **Audio & Video** | 49 | Music gen, video editing, transcription, voice/TTS |
 | **Game Dev** | 27 | Sprites, NPC AI, level gen, game audio, game engines |
+| **Data & Analytics** | 11 | SQL tools, dashboards, BI, data visualization |
+| **Finance & Trading** | 9 | Trading bots, portfolio analysis, market data, crypto |
+| **Marketing & SEO** | 8 | Marketing automation, SEO, email, content |
+| **Security** | 8 | Pentesting, SAST/DAST, vulnerability scanning, DevSecOps |
+| **Robotics & Physical AI** | 6 | Humanoid robots, quadrupeds, simulation, foundation models |
+| **Science & Research** | 6 | Protein prediction, drug discovery, weather AI, research agents |
+| **AI Infrastructure** | 6 | Fast inference, GPU cloud, serverless ML, model hosting |
 
 ## Features
 
-- **Category filtering** — browse by coding, design, game dev, 3D, audio/video, or productivity
+- **Category filtering** — browse by 13 categories including coding, design, 3D, robotics, science, and more
 - **Pricing filters** — filter by free, freemium, open-source, paid, or upcoming tools
 - **Full-text search** — search across names, descriptions, and tags
 - **Price display** — see pricing info at a glance for paid tools
@@ -48,7 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the catalog.
 
 ```
 ├── data/
-│   └── tools.json            # All 254 tool entries
+│   └── tools.json            # All 358 tool entries
 ├── modules/
 │   └── catalog/
 │       ├── components/       # UI components
@@ -77,7 +84,7 @@ Add new entries to `data/tools.json` following this schema:
 }
 ```
 
-**Category**: `coding` | `design` | `gamedev` | `3d` | `audio-video` | `productivity`
+**Category**: `coding` | `design` | `gamedev` | `3d` | `audio-video` | `productivity` | `marketing` | `security` | `data` | `finance` | `robotics` | `science` | `infrastructure`
 **Pricing**: `free` | `freemium` | `open-source` | `paid` | `upcoming`
 **Price**: optional, e.g. `"$20/mo"` (for paid/freemium tools)
 **Status**: optional, e.g. `"Beta"`, `"Coming Q2 2026"` (for upcoming tools)
