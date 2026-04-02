@@ -5617,6 +5617,707 @@
       "tags": ["math-solver", "camera", "step-by-step", "mobile"],
       "pricing": "freemium",
       "isNew": true
+    },
+    {
+      "name": "MuJoCo",
+      "url": "https://mujoco.org/",
+      "description": "Google DeepMind's open-source physics engine for fast, accurate simulation of articulated structures. The standard for RL research in robotics.",
+      "category": "robotics",
+      "tags": ["simulation", "physics-engine", "reinforcement-learning", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Gazebo",
+      "url": "https://gazebosim.org/",
+      "description": "Open-source robotics simulator with high-fidelity physics, rendering, and sensor models. Deep ROS 2 integration for multi-robot simulation.",
+      "category": "robotics",
+      "tags": ["simulation", "ROS", "multi-robot", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Drake",
+      "url": "https://drake.mit.edu/",
+      "description": "MIT/Toyota Research toolbox for multibody dynamics, planning, control, and optimization of robotic systems in C++ and Python.",
+      "category": "robotics",
+      "tags": ["simulation", "planning", "control", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "NVIDIA Isaac Lab",
+      "url": "https://github.com/isaac-sim/IsaacLab",
+      "description": "GPU-accelerated framework for robot learning built on Isaac Sim. Unifies reinforcement learning, imitation learning, and motion planning at scale.",
+      "category": "robotics",
+      "tags": ["simulation", "GPU-accelerated", "robot-learning", "nvidia"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Physical Intelligence pi0",
+      "url": "https://www.pi.website/",
+      "description": "First generalist robotic foundation model (vision-language-action) controlling diverse robots across tasks like folding laundry and assembling boxes.",
+      "category": "robotics",
+      "tags": ["foundation-model", "VLA", "generalist-robot", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "OpenVLA",
+      "url": "https://openvla.github.io/",
+      "description": "Open-source 7B-param vision-language-action model trained on 970K real-world robot demos. Outperforms RT-2-X (55B) with 7x fewer parameters.",
+      "category": "robotics",
+      "tags": ["foundation-model", "VLA", "manipulation", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Octo",
+      "url": "https://octo-models.github.io/",
+      "description": "Open-source generalist robot policy pretrained on 800K episodes from Open X-Embodiment. Supports language and goal-image instructions.",
+      "category": "robotics",
+      "tags": ["foundation-model", "generalist-policy", "manipulation", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Tesla Optimus",
+      "url": "https://www.tesla.com/",
+      "description": "Tesla's general-purpose humanoid robot with 22-DOF hands and Grok AI integration. Gen 3 production ramping, targeting $20-30K at scale.",
+      "category": "robotics",
+      "tags": ["humanoid", "general-purpose", "manufacturing", "consumer"],
+      "pricing": "upcoming",
+      "status": "Production Ramp",
+      "isNew": true
+    },
+    {
+      "name": "Agility Robotics Digit",
+      "url": "https://www.agilityrobotics.com/",
+      "description": "First commercially deployed humanoid for warehouse logistics. Handles 35lb payloads, deployed at Amazon and Spanx via RaaS model.",
+      "category": "robotics",
+      "tags": ["humanoid", "warehouse", "logistics", "commercial"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Apptronik Apollo",
+      "url": "https://apptronik.com/apollo",
+      "description": "Human-scale humanoid for industrial workflows. 55lb payload, 22hr/day operation, deployed at Mercedes-Benz and Jabil.",
+      "category": "robotics",
+      "tags": ["humanoid", "industrial", "manufacturing", "logistics"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Sanctuary AI Phoenix",
+      "url": "https://www.sanctuary.ai/",
+      "description": "General-purpose humanoid powered by Carbon AI combining symbolic reasoning, LLMs, and RL. 21-DOF hydraulic hands with tactile sensors.",
+      "category": "robotics",
+      "tags": ["humanoid", "cognitive-AI", "general-purpose", "manipulation"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Fourier Intelligence GR Series",
+      "url": "https://www.fftai.com/",
+      "description": "Mass-produced humanoid robots (GR-1/2/3) for research and industry. GR-2 offers 53 DOF at 175cm with 5,000-unit annual production.",
+      "category": "robotics",
+      "tags": ["humanoid", "research", "healthcare", "manufacturing"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Universal Robots",
+      "url": "https://www.universal-robots.com/",
+      "description": "World's leading collaborative robot arms. UR3e/UR5e/UR10e/UR20 work safely alongside humans for pick-and-place, welding, and assembly.",
+      "category": "robotics",
+      "tags": ["cobot", "robot-arm", "manufacturing", "collaborative"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Franka Robotics",
+      "url": "https://franka.de/",
+      "description": "Force-sensitive 7-axis robot arm for AI research. Torque sensors at each joint, 0.1mm repeatability, and low-level control access.",
+      "category": "robotics",
+      "tags": ["robot-arm", "research", "AI-ready", "manipulation"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Skydio",
+      "url": "https://www.skydio.com/",
+      "description": "AI-powered autonomous drones with real-time obstacle avoidance for inspection, public safety, and defense. NightSense for zero-light ops.",
+      "category": "robotics",
+      "tags": ["drone", "autonomous", "inspection", "AI-navigation"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Zipline",
+      "url": "https://www.zipline.com/",
+      "description": "World's largest autonomous delivery system with 2M+ deliveries and 120M+ autonomous miles across 7 countries.",
+      "category": "robotics",
+      "tags": ["drone", "delivery", "autonomous", "logistics"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Wing",
+      "url": "https://wing.com/",
+      "description": "Alphabet's autonomous drone delivery with 450,000+ deliveries. Decentralized system managing drones, landing pads, and AutoLoader devices.",
+      "category": "robotics",
+      "tags": ["drone", "delivery", "autonomous", "last-mile"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Waymo",
+      "url": "https://waymo.com/",
+      "description": "Global leader in Level 4 robotaxis with 3,000+ vehicles across 10 US cities and 500K+ paid rides per week.",
+      "category": "robotics",
+      "tags": ["autonomous-vehicle", "robotaxi", "self-driving", "ride-hailing"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Autoware",
+      "url": "https://autoware.org/",
+      "description": "Leading open-source autonomous driving stack on ROS 2. Full perception, localization, planning, and control modules.",
+      "category": "robotics",
+      "tags": ["autonomous-driving", "open-source", "ROS", "self-driving"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "ROS 2",
+      "url": "https://www.ros.org/",
+      "description": "The de-facto standard open-source middleware for robotics. Tools, libraries, and conventions for building robot applications with real-time support.",
+      "category": "robotics",
+      "tags": ["middleware", "operating-system", "open-source", "framework"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Locus Robotics",
+      "url": "https://locusrobotics.com/",
+      "description": "AI-powered autonomous mobile robots for warehouse fulfillment. 2-3x productivity improvement via Robots-as-a-Service model.",
+      "category": "robotics",
+      "tags": ["warehouse", "AMR", "logistics", "RaaS"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Symbotic",
+      "url": "https://www.symbotic.com/",
+      "description": "AI-powered warehouse robotics using autonomous bots for case-level storage and retrieval. End-to-end distribution center automation.",
+      "category": "robotics",
+      "tags": ["warehouse", "automation", "distribution", "AI"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Geek+",
+      "url": "https://www.geekplus.com/",
+      "description": "Global leader in AMR solutions for logistics with goods-to-person picking, sorting, and moving robots across 40+ countries.",
+      "category": "robotics",
+      "tags": ["warehouse", "AMR", "logistics", "sorting"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Intuitive Surgical da Vinci",
+      "url": "https://www.intuitive.com/",
+      "description": "Dominant robotic surgery platform with 76,000+ trained surgeons and 14M+ procedures. da Vinci 5 brings AI-powered insights and force feedback.",
+      "category": "robotics",
+      "tags": ["surgical", "medical", "AI-assisted", "minimally-invasive"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "CMR Surgical Versius",
+      "url": "https://cmrsurgical.com/",
+      "description": "Next-gen modular surgical robot with small, independent arms configurable for various procedures. FDA-cleared competitor to da Vinci.",
+      "category": "robotics",
+      "tags": ["surgical", "medical", "modular", "minimally-invasive"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "John Deere Autonomous",
+      "url": "https://www.deere.com/en/autonomous/",
+      "description": "Autonomous tractors with 360-degree vision and sub-inch GPS. See & Spray AI reduces herbicide by 59% targeting individual weeds.",
+      "category": "robotics",
+      "tags": ["agriculture", "autonomous", "precision-farming", "AI-vision"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Agrobot",
+      "url": "https://www.agrobot.com/",
+      "description": "AI-powered harvesting robots with 24 independent arms using computer vision to identify ripe fruit and pick without damage.",
+      "category": "robotics",
+      "tags": ["agriculture", "harvesting", "computer-vision", "manipulation"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "FBR Hadrian X",
+      "url": "https://www.fbr.com.au/",
+      "description": "Robotic bricklaying system automating wall construction with consistent speed and minimal waste for commercial and residential builds.",
+      "category": "robotics",
+      "tags": ["construction", "bricklaying", "automation", "manufacturing"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Gravis Robotics",
+      "url": "https://www.gravisrobotics.com/",
+      "description": "AI autonomy for heavy construction equipment — bulldozers and excavators. Deployed across UK, US, and EU construction sites.",
+      "category": "robotics",
+      "tags": ["construction", "autonomous", "heavy-equipment", "AI"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Pony.ai",
+      "url": "https://pony.ai/",
+      "description": "Autonomous driving company targeting 3,000+ vehicle fleet across 20 cities. Partnered with Toyota for commercial robotaxi deployment.",
+      "category": "robotics",
+      "tags": ["autonomous-vehicle", "robotaxi", "self-driving", "commercial"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "CARLA Simulator",
+      "url": "https://carla.org/",
+      "description": "Open-source simulator for autonomous driving research with urban layouts, vehicles, and flexible API for sensor suites and traffic.",
+      "category": "robotics",
+      "tags": ["simulation", "autonomous-driving", "open-source", "research"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Open X-Embodiment",
+      "url": "https://robotics-transformer-x.github.io/",
+      "description": "Google DeepMind dataset of 1M+ real robot episodes across 22 embodiments. Enables training generalist robot policies like RT-2-X.",
+      "category": "robotics",
+      "tags": ["dataset", "foundation-model", "multi-robot", "research"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Semrush",
+      "url": "https://semrush.com/",
+      "description": "All-in-one SEO/PPC/social platform with AI-driven keyword research, site audits, and competitive analysis across 26B+ keywords.",
+      "category": "marketing",
+      "tags": ["seo", "keyword-research", "competitive-analysis", "ppc"],
+      "pricing": "paid",
+      "price": "$139.95/mo",
+      "isNew": true
+    },
+    {
+      "name": "Ahrefs",
+      "url": "https://ahrefs.com/",
+      "description": "Industry-leading backlink analysis and keyword research tool with AI visibility tracking for AI search results.",
+      "category": "marketing",
+      "tags": ["seo", "backlinks", "keyword-research", "site-audit"],
+      "pricing": "paid",
+      "price": "$29/mo",
+      "isNew": true
+    },
+    {
+      "name": "Surfer SEO",
+      "url": "https://surferseo.com/",
+      "description": "On-page SEO optimization using live SERP analysis. Surfer AI generates full pre-optimized article drafts.",
+      "category": "marketing",
+      "tags": ["seo", "content-optimization", "on-page", "ai-writing"],
+      "pricing": "paid",
+      "price": "$99/mo",
+      "isNew": true
+    },
+    {
+      "name": "MarketMuse",
+      "url": "https://marketmuse.com/",
+      "description": "AI content strategy platform combining topic modeling, content gap analysis, and optimization workflows for content planners.",
+      "category": "marketing",
+      "tags": ["seo", "content-strategy", "topic-modeling", "content-gap"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Buffer",
+      "url": "https://buffer.com/",
+      "description": "Social media scheduling and management with a free AI Assistant for caption generation on every plan.",
+      "category": "marketing",
+      "tags": ["social-media", "scheduling", "ai-assistant", "content"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Hootsuite",
+      "url": "https://hootsuite.com/",
+      "description": "Enterprise social media management with OwlyWriter AI for captions, image generation, and brand voice personalization.",
+      "category": "marketing",
+      "tags": ["social-media", "scheduling", "enterprise", "ai-writing"],
+      "pricing": "paid",
+      "price": "$99/mo",
+      "isNew": true
+    },
+    {
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com/",
+      "description": "Email marketing platform with AI send-time optimization, content suggestions, audience segmentation, and predictive analytics.",
+      "category": "marketing",
+      "tags": ["email-marketing", "automation", "audience-segmentation", "analytics"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "AdCreative.ai",
+      "url": "https://adcreative.ai/",
+      "description": "AI-powered ad creative generation producing conversion-optimized banners, copy, and social media creatives.",
+      "category": "marketing",
+      "tags": ["advertising", "creative-generation", "conversion", "social-media"],
+      "pricing": "paid",
+      "price": "$29/mo",
+      "isNew": true
+    },
+    {
+      "name": "Token Metrics",
+      "url": "https://tokenmetrics.com/",
+      "description": "AI-driven crypto analytics with price predictions, portfolio recommendations, and market indices using ML models.",
+      "category": "finance",
+      "tags": ["crypto", "analytics", "ai-predictions", "portfolio"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Messari",
+      "url": "https://messari.io/",
+      "description": "Crypto research and data platform with institutional-grade reports, real-time pricing, token unlock schedules for 40K+ assets.",
+      "category": "finance",
+      "tags": ["crypto", "research", "institutional-data", "defi"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Nansen",
+      "url": "https://nansen.ai/",
+      "description": "On-chain analytics labeling 500M+ wallets to track smart money flows, DeFi activity, and exchange movements in real-time.",
+      "category": "finance",
+      "tags": ["crypto", "on-chain-analytics", "wallet-tracking", "defi"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "DeFi Llama",
+      "url": "https://defillama.com/",
+      "description": "Open-source DeFi dashboard tracking TVL across thousands of protocols and chains, with yield and lending rate monitoring.",
+      "category": "finance",
+      "tags": ["defi", "tvl-tracking", "analytics", "open-source"],
+      "pricing": "free",
+      "isNew": true
+    },
+    {
+      "name": "3Commas",
+      "url": "https://3commas.io/",
+      "description": "Multi-exchange crypto trading bot platform with DCA bots, grid bots, smart terminal, and portfolio management.",
+      "category": "finance",
+      "tags": ["crypto", "trading-bots", "portfolio", "multi-exchange"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Trade Ideas",
+      "url": "https://trade-ideas.com/",
+      "description": "AI stock scanning platform with proprietary Holly AI running millions of simulated trades daily to find high-probability setups.",
+      "category": "finance",
+      "tags": ["stock-trading", "ai-scanning", "day-trading", "alerts"],
+      "pricing": "paid",
+      "price": "$118/mo",
+      "isNew": true
+    },
+    {
+      "name": "AlgosOne",
+      "url": "https://algosone.ai/",
+      "description": "AI trading platform offering institutional-level algorithmic trading for retail investors across crypto, forex, and stocks.",
+      "category": "finance",
+      "tags": ["algo-trading", "multi-asset", "signals", "backtesting"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Darktrace",
+      "url": "https://darktrace.com/",
+      "description": "Self-learning AI for autonomous threat detection across network, email, and cloud using unsupervised ML to identify novel attacks.",
+      "category": "security",
+      "tags": ["threat-detection", "network-security", "autonomous", "ml"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "CrowdStrike Falcon",
+      "url": "https://crowdstrike.com/",
+      "description": "Cloud-native endpoint protection combining EDR, threat intelligence, and behavioral analytics with AI-powered threat hunting.",
+      "category": "security",
+      "tags": ["endpoint-protection", "edr", "threat-intelligence", "cloud-native"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "SentinelOne",
+      "url": "https://sentinelone.com/",
+      "description": "Autonomous endpoint security using behavioral AI for real-time threat detection, prevention, and automated response.",
+      "category": "security",
+      "tags": ["endpoint-protection", "autonomous", "behavioral-ai", "xdr"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Wiz",
+      "url": "https://wiz.io/",
+      "description": "Agentless cloud security with full-stack visibility across VMs, containers, and serverless with AI-powered risk prioritization.",
+      "category": "security",
+      "tags": ["cloud-security", "vulnerability-management", "agentless", "risk"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Microsoft Security Copilot",
+      "url": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot",
+      "description": "AI assistant for security ops using NLP for faster incident investigation, threat summarization, and guided remediation.",
+      "category": "security",
+      "tags": ["siem", "incident-response", "nlp", "copilot"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Lacework",
+      "url": "https://lacework.net/",
+      "description": "Cloud security using anomaly detection and behavioral analytics to identify threats across multi-cloud with automated compliance.",
+      "category": "security",
+      "tags": ["cloud-security", "anomaly-detection", "compliance", "multi-cloud"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Vectra AI",
+      "url": "https://vectra.ai/",
+      "description": "AI-driven network detection and response using Attack Signal Intelligence to detect and prioritize real attacks across hybrid cloud.",
+      "category": "security",
+      "tags": ["ndr", "attack-detection", "hybrid-cloud", "ai-triage"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "NVIDIA BioNeMo",
+      "url": "https://www.nvidia.com/en-us/clara/bionemo/",
+      "description": "Cloud platform for generative biology and chemistry — protein prediction, drug discovery, molecular simulations, and RNA structure.",
+      "category": "science",
+      "tags": ["drug-discovery", "protein-prediction", "molecular-sim", "nvidia"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "RDKit",
+      "url": "https://rdkit.org/",
+      "description": "Standard open-source cheminformatics toolkit for molecular operations, descriptor generation, substructure search, and ML-ready featurization.",
+      "category": "science",
+      "tags": ["cheminformatics", "molecular-modeling", "drug-discovery", "python"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Galaxy",
+      "url": "https://galaxyproject.org/",
+      "description": "Open web platform for reproducible biomedical data analysis, integrating thousands of bioinformatics tools with workflow management.",
+      "category": "science",
+      "tags": ["bioinformatics", "workflow", "reproducible-research", "genomics"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Benchling",
+      "url": "https://benchling.com/",
+      "description": "Cloud-based life science R&D platform combining notebook, sequence design, CRISPR guides, and inventory with AI-assisted experiment planning.",
+      "category": "science",
+      "tags": ["lab-management", "molecular-biology", "crispr", "biotech"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Weights & Biases",
+      "url": "https://wandb.ai/",
+      "description": "ML experiment tracking, model versioning, and LLM observability with visualization dashboards and hyperparameter sweeps.",
+      "category": "infrastructure",
+      "tags": ["experiment-tracking", "mlops", "observability", "collaboration"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "MLflow",
+      "url": "https://mlflow.org/",
+      "description": "Open-source MLOps platform for experiment tracking, model registry, and deployment. v3.0 adds GenAI evaluation with hallucination detection.",
+      "category": "infrastructure",
+      "tags": ["mlops", "model-registry", "experiment-tracking", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "LangSmith",
+      "url": "https://smith.langchain.com/",
+      "description": "LLM evaluation and observability by LangChain for logging, tracing, and analyzing LLM interactions with safety testing.",
+      "category": "infrastructure",
+      "tags": ["llm-evaluation", "observability", "tracing", "langchain"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Pinecone",
+      "url": "https://pinecone.io/",
+      "description": "Managed serverless vector database optimized for similarity search at scale. Commonly used for RAG pipelines and semantic search.",
+      "category": "infrastructure",
+      "tags": ["vector-database", "similarity-search", "rag", "serverless"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Weaviate",
+      "url": "https://weaviate.io/",
+      "description": "Open-source vector database with built-in ML modules for vectorization, semantic search, and hybrid keyword+vector filtering.",
+      "category": "infrastructure",
+      "tags": ["vector-database", "semantic-search", "open-source", "hybrid-search"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Qdrant",
+      "url": "https://qdrant.tech/",
+      "description": "High-performance open-source vector database with advanced filtering and payload indexing. Optimized for production RAG workloads.",
+      "category": "infrastructure",
+      "tags": ["vector-database", "filtering", "open-source", "rag"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "BentoML",
+      "url": "https://bentoml.com/",
+      "description": "Open-source model serving framework simplifying packaging, containerization, and deployment of ML models with auto-scaling.",
+      "category": "infrastructure",
+      "tags": ["model-serving", "deployment", "containerization", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Arize AI",
+      "url": "https://arize.com/",
+      "description": "ML and LLM observability with tracing, evaluation, and production monitoring. Arize Phoenix provides open-source agent trace visualization.",
+      "category": "infrastructure",
+      "tags": ["ml-observability", "llm-monitoring", "tracing", "production"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Brilliant",
+      "url": "https://brilliant.org/",
+      "description": "Interactive STEM learning with 60+ courses in math, science, and CS using hands-on problem solving and visual explanations.",
+      "category": "education",
+      "tags": ["stem", "interactive-learning", "math", "problem-solving"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Knowt",
+      "url": "https://knowt.com/",
+      "description": "Free Quizlet alternative generating flashcards, quizzes, and games from lecture recordings and notes with AI spaced repetition.",
+      "category": "education",
+      "tags": ["flashcards", "spaced-repetition", "ai-generation", "study"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "StudyFetch",
+      "url": "https://studyfetch.com/",
+      "description": "AI learning platform building personalized study plans from uploaded materials with flashcards, quizzes, and practice tests.",
+      "category": "education",
+      "tags": ["study-plans", "flashcards", "quizzes", "ai-tutor"],
+      "pricing": "paid",
+      "price": "$19/mo",
+      "isNew": true
+    },
+    {
+      "name": "Mindgrasp",
+      "url": "https://mindgrasp.ai/",
+      "description": "AI study tool generating notes, flashcards, quizzes, summaries, and an AI tutor from any uploaded content.",
+      "category": "education",
+      "tags": ["notes", "flashcards", "ai-tutor", "summarization"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Codecademy",
+      "url": "https://codecademy.com/",
+      "description": "Interactive coding education with AI-assisted learning paths, hands-on projects, and guidance across 14+ programming languages.",
+      "category": "education",
+      "tags": ["coding-education", "interactive", "programming", "career-paths"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Gradescope",
+      "url": "https://gradescope.com/",
+      "description": "AI-assisted grading platform automating assessment of multiple-choice, fill-in-the-blank, and coding assignments with instant feedback.",
+      "category": "education",
+      "tags": ["grading", "assessment", "automation", "feedback"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Airbyte",
+      "url": "https://airbyte.com/",
+      "description": "Open-source data integration/ELT platform with 300+ connectors for extracting and loading data from any source to any destination.",
+      "category": "data",
+      "tags": ["etl", "data-integration", "open-source", "connectors"],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Fivetran",
+      "url": "https://fivetran.com/",
+      "description": "Managed ELT platform with 150+ pre-built connectors and automated schema handling. Merged with dbt Labs for unified pipelines.",
+      "category": "data",
+      "tags": ["etl", "managed", "data-pipeline", "connectors"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Atlan",
+      "url": "https://atlan.com/",
+      "description": "AI-native active metadata platform auto-cataloging data assets across Snowflake, Databricks, dbt with automated lineage and governance.",
+      "category": "data",
+      "tags": ["data-catalog", "metadata", "governance", "lineage"],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Great Expectations",
+      "url": "https://greatexpectations.io/",
+      "description": "Open-source data quality and validation framework. Define, test, and document data expectations with automated profiling.",
+      "category": "data",
+      "tags": ["data-quality", "validation", "testing", "open-source"],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Ataccama",
+      "url": "https://ataccama.com/",
+      "description": "AI-powered data quality and governance with an autonomous AI agent that profiles data, assesses quality, and creates rules automatically.",
+      "category": "data",
+      "tags": ["data-quality", "ai-agent", "governance", "profiling"],
+      "pricing": "paid",
+      "isNew": true
     }
   ]
 }
