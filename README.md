@@ -1,6 +1,6 @@
 # AI Tools Catalog
 
-A curated catalog of **407 AI tools** across 15 categories — discover the best AI-powered tools for coding, design, 3D, audio/video, productivity, robotics, science, infrastructure, education, and more.
+A curated catalog of **484 AI tools** across 15 categories — discover the best AI-powered tools for coding, design, 3D, audio/video, productivity, robotics, science, infrastructure, education, and more.
 
 **[Live Demo](https://arturas.digital/lab/ai-tools-catalog/)**
 
@@ -17,15 +17,15 @@ A curated catalog of **407 AI tools** across 15 categories — discover the best
 | **UI & Design** | 60 | Design-to-code, image generation, photo editing, prototyping |
 | **Audio & Video** | 57 | Music gen, voice AI, video editing, avatars, TTS |
 | **3D & Motion** | 54 | 3D generation, architecture, Blender tools, mocap, NeRF |
+| **Robotics & Physical AI** | 38 | Humanoids, drones, autonomous vehicles, surgery, simulation, agriculture |
 | **Game Dev** | 27 | Sprites, NPC AI, level gen, game audio, game engines |
-| **Data & Analytics** | 14 | SQL tools, notebooks, dashboards, BI, data visualization |
-| **Marketing & SEO** | 9 | Marketing automation, SEO, sales enablement, email |
-| **Finance & Trading** | 9 | Trading bots, portfolio analysis, market data, crypto |
-| **Science & Research** | 8 | Protein prediction, drug discovery, weather AI, citation analysis |
-| **Security** | 8 | Pentesting, SAST/DAST, vulnerability scanning, DevSecOps |
-| **Robotics & Physical AI** | 6 | Humanoid robots, quadrupeds, simulation, foundation models |
-| **AI Infrastructure** | 6 | Fast inference, GPU cloud, serverless ML, model hosting |
-| **Education** | 3 | AI tutoring, language learning, math solving |
+| **Data & Analytics** | 19 | SQL tools, notebooks, ETL, data quality, dashboards, BI |
+| **Marketing & SEO** | 17 | SEO, social media, email marketing, ad creatives, content strategy |
+| **Finance & Trading** | 16 | Crypto analytics, trading bots, DeFi, portfolio, stock scanning |
+| **Security** | 15 | Endpoint protection, cloud security, threat detection, NDR, SIEM |
+| **AI Infrastructure** | 14 | Inference, vector DBs, MLOps, model serving, LLM observability |
+| **Science & Research** | 12 | Drug discovery, cheminformatics, bioinformatics, weather AI, lab tools |
+| **Education** | 9 | AI tutoring, coding education, flashcards, study tools, grading |
 
 ## Features
 
@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the catalog.
 
 ```
 ├── data/
-│   └── tools.json            # All 407 tool entries
+│   └── tools.json            # All 484 tool entries
 ├── modules/
 │   └── catalog/
 │       ├── components/       # UI components
