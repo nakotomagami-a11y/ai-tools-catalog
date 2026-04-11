@@ -102,6 +102,20 @@
       }
     },
     {
+      "name": "Toprank",
+      "url": "https://github.com/nowork-studio/toprank",
+      "description": "Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows.",
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "google-ads",
+        "content-writing",
+        "claude-code",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
       "name": "Gemini Code Assist",
       "url": "https://codeassist.google/",
       "description": "Google's AI code completion with 6,000 completions/day and 240 chat requests/day — no credit card needed.",
