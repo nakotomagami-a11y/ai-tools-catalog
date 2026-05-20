@@ -100,6 +100,45 @@ Previous searches (use different queries to cover new ground):
 **Tools added:** OpenBB, FinRL, FinRobot, Freqtrade, OctoBot, Jesse, OpenTrader, Superalgos, AI-Trader, MobSF, ZAP, Semgrep, Trivy, BlacksmithAI, SerpBear, Listmonk, Odoo Email Marketing, Metabase, Apache Superset, Data Formulator, Wren AI, DB-GPT
 **Categories added:** Marketing & SEO, Security, Data & Analytics, Finance & Trading
 
+**2026-05-19:**
+- "new AI coding tools released April May 2026 developer productivity"
+- "AI tools Product Hunt launch April May 2026"
+- "GitHub trending AI repositories May 2026 open source"
+- "new open source AI security tools 2026 pentesting SAST vulnerability scanner released"
+- "new AI video generation tools launched April May 2026"
+- "new AI music audio tools launched 2026 open source or free"
+- "new AI agent framework tools released April May 2026 open source github"
+- "new AI 3D generation tools released 2026 open source text-to-3D image-to-3D"
+- "AI infrastructure tools LLM inference serving 2026 new released open source"
+- "Garak LLM vulnerability scanner open source github 2026"
+- "Caido web proxy AI security tool open source 2026"
+- "DiffRhythm open source music generation github 2026"
+- "DiffRhythm 2 open source full song generation 2026 github"
+- "vLLM SGLang open source LLM inference 2026 production"
+- "TokenSpeed LightSeek open source LLM inference engine 2026"
+- "new AI data analytics tools 2026 open source business intelligence SQL"
+- "Lightdash open source dbt BI tool github 2026"
+- "Claw Code open source AI coding agent github 2026"
+- "Hermes Agent Nous Research open source AI agent github 2026"
+- "new AI productivity tools knowledge management personal assistant 2026"
+- "Autodesk Wonder 3D AI 3D generation Flow Studio 2026"
+- "new AI game development tools 2026 open source sprites NPC level generation"
+- "Postiz open source social media AI scheduling tool github"
+- "OpenAI Daybreak vulnerability detection AI security tool 2026"
+- "Datadog open source AI SAST code security scanner 2026 github"
+- "new open source AI education tools 2026 tutoring learning"
+- "Synthesis Tutor AI math tutoring 2026 pricing"
+- "Figma Sites GA release general availability pricing 2026"
+- "Meta Llama 4 release date pricing open source 2026"
+- "DeepSeek V4 release open source 2026 features"
+- "Seedance 2.0 ByteDance video generation release 2026"
+- "ForgeFoley AI foley sound effects release 2026"
+- "GPT-5 Codex App OpenAI release May 2026"
+
+**Tools added:** Claw Code, Hermes Agent, vLLM, SGLang, TokenSpeed, Lightdash, DiffRhythm, DiffRhythm 2, Postiz, Garak, Caido, Datadog SAIST, OpenAI Daybreak, Synthesis Tutor, Autodesk Wonder 3D
+**Tools updated (upcoming→released):** Seedance 2.0 (→freemium), Meta Llama 4 (→open-source), DeepSeek V4 (→open-source), GPT-5.3-Codex (→paid), Gemini 3.1 Deep Think (→paid)
+**Status updates (still upcoming):** Adobe Firefly Video Editor (Private beta→Public beta), ForgeFoley (Early access Q1 2026→Early access)
+
 ---
 
 ## Tags Index

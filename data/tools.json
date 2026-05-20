@@ -104,7 +104,7 @@
     {
       "name": "Gemini Code Assist",
       "url": "https://codeassist.google/",
-      "description": "Google's AI code completion with 6,000 completions/day and 240 chat requests/day — no credit card needed.",
+      "description": "Google's AI code completion with 6,000 completions/day and 240 chat requests/day \u2014 no credit card needed.",
       "category": "coding",
       "tags": [
         "code completion",
@@ -127,7 +127,7 @@
     {
       "name": "Windsurf",
       "url": "https://windsurf.com/",
-      "description": "AI-powered code editor (formerly Codeium) with unlimited autocomplete on the free tier. Supports 70+ languages.",
+      "description": "AI-powered code editor (formerly Codeium) with unlimited autocomplete on the free tier. Acquired by Cognition AI (makers of Devin) in Dec 2025. Supports 70+ languages.",
       "category": "coding",
       "tags": [
         "ide",
@@ -139,7 +139,7 @@
       "pricing": "freemium",
       "sentiment": {
         "score": "positive",
-        "summary": "Ranked #1 in LogRocket power rankings. Praised for speed and 75% of Cursor's capability at lower price. Acquisition by Cognition raised some concerns about future direction.",
+        "summary": "Ranked #1 in LogRocket power rankings. Praised for speed and 75% of Cursor's capability at lower price. Acquired by Cognition AI (Dec 2025) for ~$250M; product remains standalone as of 2026 but future direction uncertain.",
         "sources": [
           "reddit",
           "hn",
@@ -150,7 +150,7 @@
     },
     {
       "name": "Cursor",
-      "url": "https://cursor.sh/",
+      "url": "https://cursor.com/",
       "description": "AI-native code editor (VS Code fork) with tab completion, inline edits, and multi-file chat.",
       "category": "coding",
       "tags": [
@@ -176,7 +176,7 @@
     {
       "name": "Continue",
       "url": "https://github.com/continuedev/continue",
-      "description": "Open-source AI autopilot for VS Code and JetBrains. Connect any LLM — local or cloud.",
+      "description": "Open-source AI autopilot for VS Code and JetBrains. Connect any LLM \u2014 local or cloud.",
       "category": "coding",
       "tags": [
         "ide",
@@ -188,7 +188,7 @@
       "pricing": "open-source",
       "sentiment": {
         "score": "positive",
-        "summary": "Most popular open-source coding extension. Loved for model-agnostic flexibility � use any LLM local or cloud. Sits uniquely between Copilot and Cursor. Less polished UX than paid alternatives.",
+        "summary": "Most popular open-source coding extension. Loved for model-agnostic flexibility \ufffd use any LLM local or cloud. Sits uniquely between Copilot and Cursor. Less polished UX than paid alternatives.",
         "sources": [
           "reddit",
           "producthunt",
@@ -260,7 +260,7 @@
       "pricing": "freemium",
       "sentiment": {
         "score": "mixed",
-        "summary": "Most-installed AI app on GitHub/GitLab with 2M+ repos. Fast at catching common bugs (null checks, secrets, SQL injection). Weak on business logic and architectural reasoning � teams outgrow it for complex codebases.",
+        "summary": "Most-installed AI app on GitHub/GitLab with 2M+ repos. Fast at catching common bugs (null checks, secrets, SQL injection). Weak on business logic and architectural reasoning \ufffd teams outgrow it for complex codebases.",
         "sources": [
           "reddit",
           "github",
@@ -288,30 +288,6 @@
         "sources": [
           "reddit",
           "g2",
-          "producthunt"
-        ],
-        "lastChecked": "2026-03-22"
-      }
-    },
-    {
-      "name": "OpenCode",
-      "url": "https://opencode.ai/",
-      "description": "Open-source AI coding agent in your terminal with a polished TUI and deep LSP integration.",
-      "category": "coding",
-      "tags": [
-        "terminal",
-        "open-source",
-        "lsp",
-        "tui",
-        "privacy"
-      ],
-      "pricing": "open-source",
-      "sentiment": {
-        "score": "positive",
-        "summary": "120K stars, 5M monthly devs. Clean TUI praised as best-in-class for terminal agents. Built in Go, fast and lightweight. Ecosystem still thin and documentation needs work compared to Aider.",
-        "sources": [
-          "reddit",
-          "hn",
           "producthunt"
         ],
         "lastChecked": "2026-03-22"
@@ -543,7 +519,7 @@
     {
       "name": "Figma First Draft",
       "url": "https://www.figma.com",
-      "description": "Built into Figma — generates wireframes or high-fidelity designs from a chat prompt on the free plan.",
+      "description": "Built into Figma \u2014 generates wireframes or high-fidelity designs from a chat prompt on the free plan.",
       "category": "design",
       "tags": [
         "prototyping",
@@ -579,7 +555,7 @@
     {
       "name": "Ideogram Free",
       "url": "https://ideogram.ai",
-      "description": "AI image generation that excels at accurate, readable text in images — great for posters and logos.",
+      "description": "AI image generation (v3.0) with 90-95% text rendering accuracy \u2014 best-in-class for posters, logos, and multi-line typography.",
       "category": "design",
       "tags": [
         "image generation",
@@ -591,7 +567,7 @@
     {
       "name": "Recraft Free",
       "url": "https://www.recraft.ai",
-      "description": "Generates photorealistic images, vector illustrations, icons, and logo designs from prompts.",
+      "description": "Generates photorealistic images, native SVG vectors, icons, and logo designs from prompts. Recraft V4 ranked #1 on HuggingFace benchmarks for design.",
       "category": "design",
       "tags": [
         "image generation",
@@ -843,7 +819,7 @@
     {
       "name": "PixelLab",
       "url": "https://www.pixellab.ai/",
-      "description": "AI pixel art generator — maps, tilesets, textures, and skeleton-based animation for 2D games.",
+      "description": "AI pixel art generator \u2014 maps, tilesets, textures, and skeleton-based animation for 2D games.",
       "category": "gamedev",
       "tags": [
         "pixel art",
@@ -903,7 +879,7 @@
     {
       "name": "Rosebud AI Free",
       "url": "https://rosebud.ai/",
-      "description": "AI game creation platform — describe your game in natural language and get playable code. 2D and 3D.",
+      "description": "AI game creation platform \u2014 describe your game in natural language and get playable code. 2D and 3D.",
       "category": "gamedev",
       "tags": [
         "game creation",
@@ -1068,7 +1044,7 @@
     {
       "name": "Workik Game Maker",
       "url": "https://workik.com/ai-for-game-development",
-      "description": "AI game maker — describe your game concept and it generates playable games. No signup required.",
+      "description": "AI game maker \u2014 describe your game concept and it generates playable games. No signup required.",
       "category": "gamedev",
       "tags": [
         "game creation",
@@ -1140,7 +1116,7 @@
     {
       "name": "BlenderGPT",
       "url": "https://blendergpt.org",
-      "description": "Free Blender addon — describe what you need in natural language and get geometry in your scene.",
+      "description": "Free Blender addon \u2014 describe what you need in natural language and get geometry in your scene.",
       "category": "3d",
       "tags": [
         "blender",
@@ -1233,20 +1209,9 @@
       "pricing": "freemium"
     },
     {
-      "name": "3D AI Studio Free",
-      "url": "https://www.3daistudio.com",
-      "description": "Transforms text or images into 3D assets. Includes AI rigging tool and texture generation.",
-      "category": "3d",
-      "tags": [
-        "text-to-3d",
-        "rigging"
-      ],
-      "pricing": "freemium"
-    },
-    {
       "name": "Blender MCP",
-      "url": "https://blender-mcp.com",
-      "description": "AI-powered 3D modeling in Blender using natural language instructions via Model Context Protocol.",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "AI-powered 3D modeling in Blender using natural language instructions via Model Context Protocol. Connects Claude and other LLMs directly to Blender for scene control.",
       "category": "3d",
       "tags": [
         "blender",
@@ -1394,7 +1359,7 @@
     {
       "name": "MeshLab",
       "url": "https://www.meshlab.net",
-      "description": "Open-source mesh processing — repair, simplification, point cloud to mesh conversion, and analysis.",
+      "description": "Open-source mesh processing \u2014 repair, simplification, point cloud to mesh conversion, and analysis.",
       "category": "3d",
       "tags": [
         "mesh processing",
@@ -1440,7 +1405,7 @@
     {
       "name": "Suno Free",
       "url": "https://suno.com",
-      "description": "Full song generation — vocals and instruments — from text prompts. Limited daily credits on free tier.",
+      "description": "Full song generation \u2014 vocals and instruments \u2014 from text prompts. Limited daily credits on free tier.",
       "category": "audio-video",
       "tags": [
         "music generation",
@@ -1463,7 +1428,7 @@
     {
       "name": "Beatoven.ai",
       "url": "https://www.beatoven.ai/",
-      "description": "Creates royalty-free background music — specify mood, genre, and tempo for game or video soundtracks.",
+      "description": "Creates royalty-free background music \u2014 specify mood, genre, and tempo for game or video soundtracks.",
       "category": "audio-video",
       "tags": [
         "music",
@@ -1609,7 +1574,7 @@
     {
       "name": "Ollama",
       "url": "https://ollama.com",
-      "description": "Run LLMs locally with one command — Llama, Mistral, Gemma, and more. No cloud, full privacy.",
+      "description": "Run LLMs locally with one command \u2014 Llama, Mistral, Gemma, and more. No cloud, full privacy.",
       "category": "productivity",
       "tags": [
         "local-ai",
@@ -1847,7 +1812,7 @@
     {
       "name": "Hugging Face",
       "url": "https://huggingface.co",
-      "description": "Largest open-source AI model hub — 700K+ models, datasets, and Spaces for deploying models.",
+      "description": "Largest open-source AI model hub \u2014 700K+ models, datasets, and Spaces for deploying models.",
       "category": "productivity",
       "tags": [
         "models",
@@ -2100,7 +2065,7 @@
     },
     {
       "name": "Cursor Pro",
-      "url": "https://cursor.sh",
+      "url": "https://cursor.com",
       "description": "AI-native code editor with deep model integration, agentic coding, and codebase-aware context.",
       "category": "coding",
       "tags": [
@@ -2529,11 +2494,12 @@
     {
       "name": "Flux AI",
       "url": "https://flux-ai.io",
-      "description": "High-quality open-weight image generation model with consumer plans and API access.",
+      "description": "Multi-model AI creative platform with access to Flux image models, Seedance 2.0 video, Kling motion control, and AI face swap tools. Paid plans from $8/mo.",
       "category": "design",
       "tags": [
         "image generation",
-        "open-weights"
+        "multi-model",
+        "platform"
       ],
       "pricing": "paid",
       "price": "$8/mo"
@@ -2805,18 +2771,6 @@
       "price": "$10/mo"
     },
     {
-      "name": "Kling AI Pro",
-      "url": "https://klingai.com",
-      "description": "High-quality AI video generation with realistic motion and long-form output.",
-      "category": "audio-video",
-      "tags": [
-        "video generation",
-        "realistic"
-      ],
-      "pricing": "paid",
-      "price": "$26/mo"
-    },
-    {
       "name": "Kaiber",
       "url": "https://kaiber.ai",
       "description": "AI video transformation tool specializing in stylized video-to-video animation and music videos.",
@@ -2935,18 +2889,6 @@
       ],
       "pricing": "paid",
       "price": "$30/mo"
-    },
-    {
-      "name": "Midjourney (Image)",
-      "url": "https://midjourney.com",
-      "description": "Industry-leading AI image generation. Artistic, stylized outputs via Discord and web interface.",
-      "category": "audio-video",
-      "tags": [
-        "image generation",
-        "art"
-      ],
-      "pricing": "paid",
-      "price": "from $10/mo"
     },
     {
       "name": "ChatGPT Plus",
@@ -3233,7 +3175,7 @@
     {
       "name": "Devin 2.2",
       "url": "https://cognition.ai/blog/",
-      "description": "Autonomous AI engineer with desktop GUI control � can operate browsers, Figma, and Photoshop via screen interaction.",
+      "description": "Autonomous AI engineer with desktop GUI control \ufffd can operate browsers, Figma, and Photoshop via screen interaction.",
       "category": "coding",
       "tags": [
         "autonomous-agent",
@@ -3258,51 +3200,51 @@
     {
       "name": "Figma Sites",
       "url": "https://www.figma.com",
-      "description": "Website builder integrated with Figma Design that turns designs into live, functional sites with AI.",
+      "description": "Website builder integrated with Figma Design that turns designs into live, functional sites with AI. Included in all paid Figma Full Seat plans (Professional from $15/user/mo).",
       "category": "design",
       "tags": [
         "website builder",
         "figma"
       ],
-      "pricing": "upcoming",
-      "status": "Rolling out"
+      "pricing": "paid",
+      "price": "included with paid plan"
     },
     {
-      "name": "Adobe Project Moonlight",
-      "url": "https://blog.adobe.com",
-      "description": "Conversational agentic AI that works across Adobe apps — Photoshop, Express, Acrobat.",
+      "name": "Adobe Firefly AI Assistant",
+      "url": "https://firefly.adobe.com",
+      "description": "Adobe's creative AI agent (evolved from Project Moonlight) that works across Photoshop, Premiere Pro, Lightroom, Illustrator, and Express. Generates multi-step workflows from natural language prompts. Public beta launched April 2026.",
       "category": "design",
       "tags": [
         "adobe",
         "agentic",
-        "creative"
+        "creative",
+        "cross-app"
       ],
-      "pricing": "upcoming",
-      "status": "Private beta"
+      "pricing": "freemium"
     },
     {
       "name": "Adobe Firefly Custom Models",
       "url": "https://firefly.adobe.com",
-      "description": "Train Firefly on your own images to create a reusable model matching your creative style.",
+      "description": "Train Firefly on your own images (500 credits per model) to create a reusable style model for character, illustration, and photographic styles. Available in public beta as part of Creative Cloud.",
       "category": "design",
       "tags": [
         "custom training",
-        "adobe"
+        "adobe",
+        "fine-tuning"
       ],
-      "pricing": "upcoming",
-      "status": "Public beta"
+      "pricing": "freemium"
     },
     {
       "name": "Tripo P1.0",
       "url": "https://www.tripo3d.ai",
-      "description": "3D model generation built for direct game engine integration. Handles modeling, texturing, retopology, and rigging.",
+      "description": "Production-grade native 3D diffusion model launched at GDC 2026. Generates game-engine-ready assets in 2 seconds via native 3D paradigm — no multi-view assembly. Handles modeling, texturing, retopology, and rigging with clean topology.",
       "category": "3d",
       "tags": [
         "game-ready",
-        "3d generation"
+        "3d generation",
+        "native-3d"
       ],
-      "pricing": "upcoming",
-      "status": "Launched GDC 2026"
+      "pricing": "freemium"
     },
     {
       "name": "NVIDIA RTX Mega Geometry",
@@ -3319,27 +3261,27 @@
     },
     {
       "name": "Seedance 2.0",
-      "url": "https://bytedance.com",
-      "description": "ByteDance's next-gen AI video generation — an 'AI director' that understands narrative logic and audio-visual language.",
+      "url": "https://seed.bytedance.com/en/seedance",
+      "description": "ByteDance's AI video generation model (launched Feb 2026, now in CapCut and Dreamina). Accepts text, image, and audio inputs; generates cinematic video with native audio and multi-shot cuts in a single unified pass. Ranked #2 on Artificial Analysis Video Arena.",
       "category": "audio-video",
       "tags": [
         "video generation",
-        "narrative"
+        "narrative",
+        "multimodal"
       ],
-      "pricing": "upcoming",
-      "status": "Limited beta"
+      "pricing": "freemium"
     },
     {
       "name": "Adobe Firefly Video Editor",
       "url": "https://firefly.adobe.com",
-      "description": "Web-based multitrack timeline editor for generating and sequencing AI video clips with voiceovers and soundtracks.",
+      "description": "Web-based multitrack timeline editor (public beta, April 2026) for generating and sequencing AI video clips with voiceovers, music, and Enhance Speech audio cleanup. Combines AI-generated clips with your own footage.",
       "category": "audio-video",
       "tags": [
         "video editing",
-        "adobe"
+        "adobe",
+        "ai-video"
       ],
-      "pricing": "upcoming",
-      "status": "Private beta"
+      "pricing": "freemium"
     },
     {
       "name": "LTX-2.3",
@@ -3366,76 +3308,76 @@
       "price": "usage-based"
     },
     {
-      "name": "Claude 5",
-      "url": "https://www.anthropic.com",
-      "description": "Expected next-gen model with intelligent tool chaining, multi-system coordination, and long-term project context.",
+      "name": "Claude Sonnet 5",
+      "url": "https://claude.ai",
+      "description": "Anthropic's Claude Sonnet 5 (codename Fennec), released February 3, 2026. Achieves 82.1% on SWE-Bench Verified, 1M-token context, and parallel sub-agent spawning. Priced at $3/M input tokens via API. Full Claude 5 family not yet announced.",
       "category": "productivity",
       "tags": [
         "foundation model",
-        "reasoning"
+        "reasoning",
+        "coding"
       ],
-      "pricing": "upcoming",
-      "status": "Expected 2026"
+      "pricing": "freemium"
     },
     {
       "name": "GPT-5.3-Codex",
-      "url": "https://openai.com",
-      "description": "Most capable agentic coding model from OpenAI — 25% faster with frontier coding and reasoning performance.",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "description": "OpenAI's agentic coding model released February 5, 2026. 25% faster than GPT-5.2-Codex with frontier coding and reasoning. Sets new highs on SWE-Bench Pro and Terminal-Bench. Available in Codex app, CLI, IDE extensions, and ChatGPT paid plans.",
       "category": "coding",
       "tags": [
         "foundation model",
-        "coding"
+        "coding",
+        "agentic"
       ],
-      "pricing": "upcoming",
-      "status": "Released early 2026"
+      "pricing": "paid",
+      "price": "included with ChatGPT paid plans"
     },
     {
       "name": "Gemini 3.1 Deep Think",
-      "url": "https://blog.google",
-      "description": "Leading scores on 13 of 16 benchmarks. Deep Think for extended reasoning. Expanding to Search and NotebookLM.",
+      "url": "https://deepmind.google/models/gemini/deep-think/",
+      "description": "Google DeepMind's Gemini 3.1 Pro with Deep Think reasoning mode, released February 19, 2026. Available in Gemini API, Google AI Studio, Antigravity IDE, and NotebookLM. Deep Think accessible to Google AI Ultra subscribers.",
       "category": "productivity",
       "tags": [
         "foundation model",
-        "reasoning"
+        "reasoning",
+        "google"
       ],
-      "pricing": "upcoming",
-      "status": "Rolling out"
+      "pricing": "paid"
     },
     {
       "name": "NVIDIA Nemotron 3",
-      "url": "https://developer.nvidia.com",
-      "description": "Open reasoning models (30B/100B/500B) optimized for agentic AI with 4x higher token throughput and 1M token context.",
+      "url": "https://developer.nvidia.com/nemotron",
+      "description": "Family of open reasoning models (Nano/Super/Ultra) released March 2026 at GTC. Optimized for agentic AI with 5x higher throughput than predecessors, 1M token context, and multimodal omni variant. Available on Hugging Face, build.nvidia.com, OpenRouter.",
       "category": "productivity",
       "tags": [
         "foundation model",
-        "open-source"
+        "open-source",
+        "agentic"
       ],
-      "pricing": "upcoming",
-      "status": "Released early 2026"
+      "pricing": "open-source"
     },
     {
       "name": "Meta Llama 4",
-      "url": "https://ai.meta.com",
-      "description": "Open-source model with agentic capabilities — browse web, execute code, use APIs autonomously.",
+      "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "description": "Open-source model with agentic capabilities \u2014 browse web, execute code, use APIs autonomously.",
       "category": "productivity",
       "tags": [
         "foundation model",
         "open-source"
       ],
-      "pricing": "upcoming",
-      "status": "Released 2026"
+      "pricing": "open-source"
     },
     {
       "name": "DeepSeek V4",
-      "url": "https://deepseek.com",
-      "description": "Next generation of the open-source challenger model that disrupted the AI landscape.",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "description": "Released April 24, 2026 as V4-Pro (1.6T params, 49B activated) and V4-Flash (284B params). Both MIT licensed with 1M-token context and hybrid CSA/HCA attention for long-context efficiency. Available via DeepSeek API and as open weights.",
       "category": "productivity",
       "tags": [
         "foundation model",
-        "open-source"
+        "open-source",
+        "long-context"
       ],
-      "pricing": "upcoming",
-      "status": "Released Mar 2026"
+      "pricing": "open-source"
     },
     {
       "name": "Apple Siri (Reimagined)",
@@ -3459,12 +3401,12 @@
         "foley"
       ],
       "pricing": "upcoming",
-      "status": "Early access Q1 2026"
+      "status": "Early access"
     },
     {
       "name": "Goose",
       "url": "https://github.com/block/goose",
-      "description": "Open-source AI agent by Block (Square) that goes beyond code suggestions � installs, executes, edits, and tests with any LLM. Supports MCP integrations.",
+      "description": "Open-source AI agent by Block (Square) that goes beyond code suggestions \ufffd installs, executes, edits, and tests with any LLM. Supports MCP integrations.",
       "category": "coding",
       "tags": [
         "agentic",
@@ -3714,7 +3656,7 @@
     {
       "name": "Dataline",
       "url": "https://github.com/RamiAwar/dataline",
-      "description": "Open-source AI data analysis tool. Chat with your data � connects to Postgres, MySQL, Snowflake, SQLite, CSV. Privacy-focused, runs locally.",
+      "description": "Open-source AI data analysis tool. Chat with your data \ufffd connects to Postgres, MySQL, Snowflake, SQLite, CSV. Privacy-focused, runs locally.",
       "category": "data",
       "tags": [
         "data-analysis",
@@ -3837,8 +3779,8 @@
     },
     {
       "name": "Zen-AI-Pentest",
-      "url": "https://github.com/",
-      "description": "Open-source AI-powered penetration testing framework. Autonomous agents run reconnaissance, vulnerability scanning, and exploitation using Nmap and Metasploit.",
+      "url": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+      "description": "Open-source AI-powered penetration testing framework. Autonomous agents run reconnaissance, vulnerability scanning, and exploitation using Nmap and Metasploit. Integrates 72+ security tools across 9 categories.",
       "category": "security",
       "tags": [
         "pentesting",
@@ -3861,7 +3803,7 @@
     {
       "name": "Superpowers",
       "url": "https://github.com/obra/superpowers",
-      "description": "Agentic skills framework and software development methodology. Shell-based, 92K+ GitHub stars. Compose AI agent behaviors without heavy Python boilerplate.",
+      "description": "Agentic skills framework and software development methodology. Shell-based, 190K+ GitHub stars. Enforces structured dev process (clarify, design, plan, TDD) across Claude Code, Codex CLI, Cursor, and other agents.",
       "category": "coding",
       "tags": [
         "agentic",
@@ -3873,7 +3815,7 @@
       "pricing": "open-source",
       "sentiment": {
         "score": "positive",
-        "summary": "92K stars, Shell-based agent framework. Compose agent behaviors without Python. Viral growth in early 2026.",
+        "summary": "190K+ stars, Shell-based agent framework. Enforces disciplined TDD-based process for AI coding agents. Viral growth throughout 2026. Complements rather than competes with agent tools.",
         "sources": [
           "reddit",
           "hn",
@@ -3937,7 +3879,7 @@
     {
       "name": "FinRobot",
       "url": "https://github.com/AI4Finance-Foundation/FinRobot",
-      "description": "Open-source AI agent platform for finance � investment research automation, algorithmic trading, and risk assessment using LLMs.",
+      "description": "Open-source AI agent platform for finance \ufffd investment research automation, algorithmic trading, and risk assessment using LLMs.",
       "category": "finance",
       "tags": [
         "finance",
@@ -4107,7 +4049,7 @@
     {
       "name": "MobSF",
       "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-      "description": "Open-source automated mobile app security testing (SAST + DAST). Scans APK, IPA, APPX � Java, Kotlin, Swift, Objective-C.",
+      "description": "Open-source automated mobile app security testing (SAST + DAST). Scans APK, IPA, APPX \ufffd Java, Kotlin, Swift, Objective-C.",
       "category": "security",
       "tags": [
         "mobile-security",
@@ -4205,8 +4147,8 @@
     },
     {
       "name": "BlacksmithAI",
-      "url": "https://github.com/",
-      "description": "Open-source AI penetration testing framework using multi-agent orchestration across security assessment lifecycle stages.",
+      "url": "https://github.com/yohannesgk/blacksmith",
+      "description": "Open-source AI penetration testing framework using multi-agent orchestration across security assessment lifecycle stages (reconnaissance, scanning, exploitation, post-exploitation).",
       "category": "security",
       "tags": [
         "pentesting",
@@ -4425,22 +4367,22 @@
     {
       "name": "Trae IDE",
       "url": "https://www.trae.ai/",
-      "description": "ByteDance's free AI-powered IDE with Builder Mode for autonomous project scaffolding, multimodal input, and access to Claude 4 and GPT-4o. Over 6 million users in its first year.",
+      "description": "ByteDance's AI-powered IDE with Builder Mode for autonomous project scaffolding, multimodal input, and access to Claude Sonnet 5 and GPT-4o. Free tier includes 5,000 completions/month; paid plans from $3/mo (Lite) and $10/mo (Pro) for larger token pools.",
       "category": "coding",
       "tags": [
         "ide",
         "ai-native",
         "code completion",
         "builder-mode",
-        "free"
+        "free-tier"
       ],
-      "pricing": "free",
+      "pricing": "freemium",
       "isNew": true
     },
     {
       "name": "OpenCode",
-      "url": "https://github.com/opencode-ai/opencode",
-      "description": "Fully open-source terminal AI coding agent that works with any AI provider including Claude, GPT, DeepSeek, Gemini, or local models.",
+      "url": "https://opencode.ai/",
+      "description": "Fully open-source terminal AI coding agent (Go, 160K+ stars) that works with any AI provider including Claude, GPT, DeepSeek, Gemini, or local models. Features TUI, LSP integration, MCP support, and 75+ model providers.",
       "category": "coding",
       "tags": [
         "terminal",
@@ -4453,8 +4395,8 @@
     },
     {
       "name": "Google Antigravity",
-      "url": "https://antigravity.codes/",
-      "description": "Google's agent-first AI development platform with Editor View for hands-on coding and Manager Surface for deploying autonomous agents. Built around Gemini 3.",
+      "url": "https://antigravity.google/",
+      "description": "Google's agent-first AI development platform (VS Code fork) with built-in browser automation, multi-agent orchestration, and Gemini 3.1 Pro. Free in public preview as of May 2026.",
       "category": "coding",
       "tags": [
         "ide",
@@ -4560,34 +4502,6 @@
         "bookmarks",
         "notes",
         "organization"
-      ],
-      "pricing": "freemium",
-      "isNew": true
-    },
-    {
-      "name": "Ideogram 3.0",
-      "url": "https://ideogram.ai/",
-      "description": "Advanced AI image generator with 90-95% text rendering accuracy, handling complex multi-line typography that other models struggle with.",
-      "category": "design",
-      "tags": [
-        "image-generation",
-        "typography",
-        "text-in-image",
-        "design"
-      ],
-      "pricing": "freemium",
-      "isNew": true
-    },
-    {
-      "name": "Recraft V4",
-      "url": "https://www.recraft.ai/",
-      "description": "Top AI model for logos and brand graphics producing native SVG vectors with brand styling tools. Ranked #1 on HuggingFace benchmarks for design.",
-      "category": "design",
-      "tags": [
-        "logo-design",
-        "svg",
-        "vector",
-        "brand-design"
       ],
       "pricing": "freemium",
       "isNew": true
@@ -4863,7 +4777,12 @@
       "url": "https://www.worldlabs.ai/",
       "description": "Fei-Fei Li's spatial intelligence lab. Generates explorable 3D worlds from text, images, or video using the Marble world model.",
       "category": "3d",
-      "tags": ["3d-worlds", "spatial-intelligence", "world-model", "generative"],
+      "tags": [
+        "3d-worlds",
+        "spatial-intelligence",
+        "world-model",
+        "generative"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4872,7 +4791,12 @@
       "url": "https://github.com/microsoft/TRELLIS",
       "description": "Microsoft Research's 4B-param 3D asset generator (CVPR'25 Spotlight). Creates high-fidelity meshes, radiance fields, and 3D Gaussians in ~3 seconds.",
       "category": "3d",
-      "tags": ["3d-generation", "image-to-3d", "open-source", "microsoft"],
+      "tags": [
+        "3d-generation",
+        "image-to-3d",
+        "open-source",
+        "microsoft"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -4881,7 +4805,12 @@
       "url": "https://lumalabs.ai/genie",
       "description": "Luma AI's text-to-3D foundation model. Generates detailed 3D models with quad meshes and PBR materials in under 10 seconds.",
       "category": "3d",
-      "tags": ["text-to-3d", "3d-assets", "game-dev", "rapid-prototyping"],
+      "tags": [
+        "text-to-3d",
+        "3d-assets",
+        "game-dev",
+        "rapid-prototyping"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4890,7 +4819,12 @@
       "url": "https://www.masterpiecex.com/",
       "description": "AI co-pilot for 3D scene creation. Generates and animates 3D models from text, exports OBJ/FBX/GLB for Unity and Unreal.",
       "category": "3d",
-      "tags": ["3d-generation", "game-assets", "animation", "text-to-3d"],
+      "tags": [
+        "3d-generation",
+        "game-assets",
+        "animation",
+        "text-to-3d"
+      ],
       "pricing": "freemium",
       "price": "$20/mo",
       "isNew": true
@@ -4900,7 +4834,12 @@
       "url": "https://www.nvidia.com/en-us/ai/cosmos/",
       "description": "World foundation model platform for physical AI. Generates physics-based videos up to 30s for robotics simulation and autonomous driving.",
       "category": "3d",
-      "tags": ["world-model", "physical-ai", "simulation", "nvidia"],
+      "tags": [
+        "world-model",
+        "physical-ai",
+        "simulation",
+        "nvidia"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -4909,7 +4848,12 @@
       "url": "https://lumalabs.ai/ray",
       "description": "First video model with visual reasoning. Native 1080p, 4x faster, HDR 16-bit EXR output, keyframe control, and character consistency.",
       "category": "audio-video",
-      "tags": ["video-generation", "hdr", "reasoning", "cinematic"],
+      "tags": [
+        "video-generation",
+        "hdr",
+        "reasoning",
+        "cinematic"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4918,7 +4862,12 @@
       "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
       "description": "Tencent's open-source 8.3B-param video model that runs on consumer GPUs. Includes image-to-video, avatar, and custom variants.",
       "category": "audio-video",
-      "tags": ["open-source", "video-generation", "consumer-gpu", "text-to-video"],
+      "tags": [
+        "open-source",
+        "video-generation",
+        "consumer-gpu",
+        "text-to-video"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -4927,7 +4876,12 @@
       "url": "https://www.midjourney.com/",
       "description": "Midjourney's first video model. Image-to-video with manual and automatic animation controls, low/high motion settings.",
       "category": "audio-video",
-      "tags": ["image-to-video", "animation", "creative", "midjourney"],
+      "tags": [
+        "image-to-video",
+        "animation",
+        "creative",
+        "midjourney"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -4936,7 +4890,12 @@
       "url": "https://platform.openai.com/docs/guides/image-generation",
       "description": "OpenAI's autoregressive image model (successor to DALL-E). 4x faster, 20% cheaper API, image-to-image transforms, and viral Ghibli-style capability.",
       "category": "design",
-      "tags": ["image-generation", "autoregressive", "openai", "text-to-image"],
+      "tags": [
+        "image-generation",
+        "autoregressive",
+        "openai",
+        "text-to-image"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4945,7 +4904,12 @@
       "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview",
       "description": "Google's latest image model with best-in-class text rendering accuracy and 3-5 second generation via the Flash variant.",
       "category": "design",
-      "tags": ["image-generation", "text-rendering", "google", "fast"],
+      "tags": [
+        "image-generation",
+        "text-rendering",
+        "google",
+        "fast"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -4954,7 +4918,12 @@
       "url": "https://x.ai/",
       "description": "xAI's image and video generation API. Text-to-video, image-to-video, and video editing at $0.05/second with 10s 720p clips.",
       "category": "design",
-      "tags": ["xai", "image-generation", "video-generation", "grok"],
+      "tags": [
+        "xai",
+        "image-generation",
+        "video-generation",
+        "grok"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4963,7 +4932,12 @@
       "url": "https://www.jetbrains.com/junie/",
       "description": "AI coding agent on the IntelliJ Platform. Takes whole tasks in natural language, plans, writes code, and iterates with MCP support.",
       "category": "coding",
-      "tags": ["coding-agent", "jetbrains", "ide", "agentic"],
+      "tags": [
+        "coding-agent",
+        "jetbrains",
+        "ide",
+        "agentic"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -4972,7 +4946,12 @@
       "url": "https://www.wondera.ai/",
       "description": "Conversational AI music platform ranked #1 in Meta benchmarks. Voice cloning, 10+ instrument stem separation, 48kHz studio audio, and DAW plugin.",
       "category": "audio-video",
-      "tags": ["music-generation", "conversational", "studio-quality", "stems"],
+      "tags": [
+        "music-generation",
+        "conversational",
+        "studio-quality",
+        "stems"
+      ],
       "pricing": "freemium",
       "price": "$14/mo",
       "isNew": true
@@ -4982,7 +4961,12 @@
       "url": "https://deepmind.google/models/lyria/",
       "description": "DeepMind's music model generating full 3-minute songs with structure awareness, tempo conditioning, time-aligned lyrics, and image-to-music.",
       "category": "audio-video",
-      "tags": ["music-generation", "google", "full-songs", "multimodal"],
+      "tags": [
+        "music-generation",
+        "google",
+        "full-songs",
+        "multimodal"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -4991,7 +4975,12 @@
       "url": "https://gemini.google/overview/deep-research/",
       "description": "Google's agent on Gemini 3 Pro for autonomous long-running research synthesis. Leads DeepResearch Bench with available Interactions API.",
       "category": "productivity",
-      "tags": ["deep-research", "agent", "synthesis", "google"],
+      "tags": [
+        "deep-research",
+        "agent",
+        "synthesis",
+        "google"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5000,25 +4989,40 @@
       "url": "https://openai.com/index/introducing-deep-research/",
       "description": "Autonomous research agent in ChatGPT that browses, reads, and synthesizes web information into comprehensive research reports.",
       "category": "productivity",
-      "tags": ["deep-research", "agent", "synthesis", "openai"],
+      "tags": [
+        "deep-research",
+        "agent",
+        "synthesis",
+        "openai"
+      ],
       "pricing": "paid",
       "isNew": true
     },
     {
       "name": "NVIDIA Isaac",
       "url": "https://developer.nvidia.com/isaac",
-      "description": "Full-stack robotics platform — Isaac Sim, Isaac Lab, GR00T foundation model for humanoid reasoning, and Newton Physics Engine.",
+      "description": "Full-stack robotics platform \u2014 Isaac Sim, Isaac Lab, GR00T foundation model for humanoid reasoning, and Newton Physics Engine.",
       "category": "robotics",
-      "tags": ["robotics", "simulation", "foundation-model", "nvidia"],
+      "tags": [
+        "robotics",
+        "simulation",
+        "foundation-model",
+        "nvidia"
+      ],
       "pricing": "free",
       "isNew": true
     },
     {
       "name": "Skild AI",
       "url": "https://www.skild.ai/",
-      "description": "Unified robotics foundation model controlling any robot form factor — quadrupeds, humanoids, arms, mobile manipulators. $1.4B raised.",
+      "description": "Unified robotics foundation model controlling any robot form factor \u2014 quadrupeds, humanoids, arms, mobile manipulators. $1.4B raised.",
       "category": "robotics",
-      "tags": ["robotics", "foundation-model", "universal-brain", "physical-ai"],
+      "tags": [
+        "robotics",
+        "foundation-model",
+        "universal-brain",
+        "physical-ai"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5027,7 +5031,12 @@
       "url": "https://www.figure.ai/",
       "description": "Humanoid robots (Figure 01-03) with Helix vision-language-action model controlling multiple robots simultaneously. Valued at $39B.",
       "category": "robotics",
-      "tags": ["humanoid-robot", "physical-ai", "autonomous", "manufacturing"],
+      "tags": [
+        "humanoid-robot",
+        "physical-ai",
+        "autonomous",
+        "manufacturing"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5036,7 +5045,12 @@
       "url": "https://www.1x.tech/",
       "description": "Consumer humanoid robot using the 1X World Model for autonomous chores, conversations, and task learning. Ships 2026.",
       "category": "robotics",
-      "tags": ["humanoid-robot", "consumer", "home-assistant", "world-model"],
+      "tags": [
+        "humanoid-robot",
+        "consumer",
+        "home-assistant",
+        "world-model"
+      ],
       "pricing": "paid",
       "price": "$20,000",
       "status": "Coming 2026",
@@ -5047,7 +5061,12 @@
       "url": "https://deepmind.google/technologies/alphafold/",
       "description": "Predicts structures of proteins, DNA, RNA, ligands, and their interactions using diffusion architecture. Expanded to full biomolecular complexes.",
       "category": "science",
-      "tags": ["protein-prediction", "drug-discovery", "deepmind", "molecular"],
+      "tags": [
+        "protein-prediction",
+        "drug-discovery",
+        "deepmind",
+        "molecular"
+      ],
       "pricing": "free",
       "isNew": true
     },
@@ -5056,18 +5075,28 @@
       "url": "https://github.com/jwohlwend/boltz",
       "description": "Open-source model predicting protein structure and binding affinity in 20 seconds on a single GPU. Drops prediction cost from ~$100 to cents.",
       "category": "science",
-      "tags": ["drug-discovery", "binding-affinity", "molecular-ai", "open-source"],
+      "tags": [
+        "drug-discovery",
+        "binding-affinity",
+        "molecular-ai",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
     {
       "name": "Google AI Co-Scientist",
       "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
-      "description": "Multi-agent system on Gemini 2.0 that generates hypotheses, designs experiments, and drafts research proposals autonomously.",
+      "description": "Multi-agent virtual collaborator built on Gemini that generates hypotheses and drafts research proposals. Available to US National Labs via accelerated access program; broader public availability not yet announced.",
       "category": "science",
-      "tags": ["research", "hypothesis-generation", "multi-agent", "gemini"],
-      "pricing": "free",
-      "status": "Trusted Tester",
+      "tags": [
+        "research",
+        "hypothesis-generation",
+        "multi-agent",
+        "gemini"
+      ],
+      "pricing": "upcoming",
+      "status": "Limited Access",
       "isNew": true
     },
     {
@@ -5075,7 +5104,12 @@
       "url": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions/",
       "description": "DeepMind's diffusion-based weather model delivering 15-day ensemble forecasts in ~8 minutes, outperforming ECMWF in 97%+ of tests.",
       "category": "science",
-      "tags": ["weather-forecasting", "climate", "deepmind", "diffusion"],
+      "tags": [
+        "weather-forecasting",
+        "climate",
+        "deepmind",
+        "diffusion"
+      ],
       "pricing": "free",
       "isNew": true
     },
@@ -5084,7 +5118,12 @@
       "url": "https://www.microsoft.com/en-us/research/project/aurora/",
       "description": "AI weather model outperforming ECMWF in 90%+ of tests. 15-20% more accurate than top traditional models for hurricane prediction.",
       "category": "science",
-      "tags": ["weather-forecasting", "climate", "microsoft", "open-source"],
+      "tags": [
+        "weather-forecasting",
+        "climate",
+        "microsoft",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5093,7 +5132,12 @@
       "url": "https://groq.com/",
       "description": "Ultra-fast inference on custom LPU chips. Llama 70B at 300 tok/sec (10x H100). Free tier with OpenAI-compatible API.",
       "category": "infrastructure",
-      "tags": ["inference", "lpu", "ultra-fast", "api"],
+      "tags": [
+        "inference",
+        "lpu",
+        "ultra-fast",
+        "api"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5102,7 +5146,12 @@
       "url": "https://cerebras.ai/inference",
       "description": "Wafer-scale processor inference cloud. 1,000+ tok/sec for Llama 405B. Free tier (24M tokens/day) with OpenAI-compatible API.",
       "category": "infrastructure",
-      "tags": ["inference", "wafer-scale", "ultra-fast", "api"],
+      "tags": [
+        "inference",
+        "wafer-scale",
+        "ultra-fast",
+        "api"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5111,7 +5160,12 @@
       "url": "https://www.together.ai/",
       "description": "AI-native cloud for 200+ open-source models. Serverless inference, dedicated endpoints, batch processing with 50% discount.",
       "category": "infrastructure",
-      "tags": ["inference", "open-source-models", "cloud", "api"],
+      "tags": [
+        "inference",
+        "open-source-models",
+        "cloud",
+        "api"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5120,7 +5174,12 @@
       "url": "https://fireworks.ai/",
       "description": "Production inference platform optimized for compound AI systems. Sub-100ms latency, function calling, and structured JSON output at scale.",
       "category": "infrastructure",
-      "tags": ["inference", "production", "low-latency", "api"],
+      "tags": [
+        "inference",
+        "production",
+        "low-latency",
+        "api"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5129,16 +5188,26 @@
       "url": "https://replicate.com/",
       "description": "Run open-source ML models in the cloud with a single API call. Hosts thousands of models including Flux, Llama, and Whisper.",
       "category": "infrastructure",
-      "tags": ["inference", "open-source-models", "api", "serverless"],
+      "tags": [
+        "inference",
+        "open-source-models",
+        "api",
+        "serverless"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
     {
       "name": "Modal",
       "url": "https://modal.com/",
-      "description": "Serverless cloud for AI/ML. Run GPU workloads with zero infrastructure — just write Python. Popular for fine-tuning, batch inference, and pipelines.",
+      "description": "Serverless cloud for AI/ML. Run GPU workloads with zero infrastructure \u2014 just write Python. Popular for fine-tuning, batch inference, and pipelines.",
       "category": "infrastructure",
-      "tags": ["serverless", "gpu-cloud", "ml-ops", "python"],
+      "tags": [
+        "serverless",
+        "gpu-cloud",
+        "ml-ops",
+        "python"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5147,7 +5216,12 @@
       "url": "https://www.unitree.com/go2/",
       "description": "AI-powered quadruped robot with lidar, depth cameras, and GPT integration. Used for research, patrol, and companion robotics.",
       "category": "robotics",
-      "tags": ["quadruped", "robot-dog", "research", "autonomous"],
+      "tags": [
+        "quadruped",
+        "robot-dog",
+        "research",
+        "autonomous"
+      ],
       "pricing": "paid",
       "price": "$1,600",
       "isNew": true
@@ -5157,7 +5231,12 @@
       "url": "https://bostondynamics.com/products/spot/",
       "description": "Industry-leading quadruped robot for inspection, data collection, and hazardous environment navigation with AI-powered autonomy.",
       "category": "robotics",
-      "tags": ["quadruped", "industrial", "inspection", "autonomous"],
+      "tags": [
+        "quadruped",
+        "industrial",
+        "inspection",
+        "autonomous"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5166,7 +5245,12 @@
       "url": "https://www.isomorphiclabs.com/",
       "description": "Google DeepMind spin-off's drug discovery engine outperforming AlphaFold 3 on binding affinity prediction. Described as 'AlphaFold 4' by researchers.",
       "category": "science",
-      "tags": ["drug-discovery", "deepmind", "molecular-ai", "pharmaceutical"],
+      "tags": [
+        "drug-discovery",
+        "deepmind",
+        "molecular-ai",
+        "pharmaceutical"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5175,7 +5259,12 @@
       "url": "https://manus.im/",
       "description": "General-purpose AI agent that autonomously executes complex multi-step tasks across documents, coding, and web browsing. Went viral in early 2025.",
       "category": "productivity",
-      "tags": ["ai-agent", "autonomous", "multi-step", "task-execution"],
+      "tags": [
+        "ai-agent",
+        "autonomous",
+        "multi-step",
+        "task-execution"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5184,7 +5273,12 @@
       "url": "https://operator.chatgpt.com/",
       "description": "ChatGPT-integrated browser agent that auto-pilots web tasks like booking, purchasing, and account management.",
       "category": "productivity",
-      "tags": ["browser-agent", "automation", "computer-use", "openai"],
+      "tags": [
+        "browser-agent",
+        "automation",
+        "computer-use",
+        "openai"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5193,7 +5287,12 @@
       "url": "https://multion.ai/",
       "description": "Autonomous web agent API that handles transactional tasks like booking flights and filling forms across websites.",
       "category": "coding",
-      "tags": ["browser-automation", "api", "web-agent", "developer-tools"],
+      "tags": [
+        "browser-automation",
+        "api",
+        "web-agent",
+        "developer-tools"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5202,7 +5301,12 @@
       "url": "https://github.com/browser-use/browser-use",
       "description": "Open-source Python library for controlling browsers with AI agents using plain language instructions. Bring your own LLM.",
       "category": "coding",
-      "tags": ["browser-automation", "python", "open-source", "agents"],
+      "tags": [
+        "browser-automation",
+        "python",
+        "open-source",
+        "agents"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5211,7 +5315,12 @@
       "url": "https://github.com/browserbase/stagehand",
       "description": "TypeScript AI web automation extending Playwright with AI helper methods (act, extract, observe) for dynamic elements.",
       "category": "coding",
-      "tags": ["typescript", "playwright", "browser-automation", "open-source"],
+      "tags": [
+        "typescript",
+        "playwright",
+        "browser-automation",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5220,7 +5329,12 @@
       "url": "https://skyvern.com/",
       "description": "AI browser automation using LLMs and computer vision with a no-code workflow builder. Top performer on form-filling benchmarks.",
       "category": "coding",
-      "tags": ["browser-automation", "computer-vision", "no-code", "workflow"],
+      "tags": [
+        "browser-automation",
+        "computer-vision",
+        "no-code",
+        "workflow"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5229,7 +5343,12 @@
       "url": "https://lindy.ai/",
       "description": "No-code AI agent builder for business workflows: outbound campaigns, lead qualification, inbox triage, and CRM updates.",
       "category": "productivity",
-      "tags": ["no-code", "ai-agents", "business-automation", "workflow"],
+      "tags": [
+        "no-code",
+        "ai-agents",
+        "business-automation",
+        "workflow"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5238,7 +5357,12 @@
       "url": "https://crewai.com/",
       "description": "Framework for building teams of AI agents that plan, reason, and collaborate on complex multi-agent workflows.",
       "category": "coding",
-      "tags": ["multi-agent", "framework", "orchestration", "python"],
+      "tags": [
+        "multi-agent",
+        "framework",
+        "orchestration",
+        "python"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5247,7 +5371,12 @@
       "url": "https://hume.ai/",
       "description": "Emotionally intelligent voice AI with the Octave TTS model. Understands and generates speech with rich emotional expression.",
       "category": "audio-video",
-      "tags": ["voice-ai", "emotional-intelligence", "tts", "conversational"],
+      "tags": [
+        "voice-ai",
+        "emotional-intelligence",
+        "tts",
+        "conversational"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5256,7 +5385,12 @@
       "url": "https://cartesia.ai/",
       "description": "Real-time voice synthesis with 40-90ms latency (Sonic-3). Supports laughter, breathing, emotional inflections across 15+ languages.",
       "category": "audio-video",
-      "tags": ["real-time-voice", "tts", "low-latency", "voice-agents"],
+      "tags": [
+        "real-time-voice",
+        "tts",
+        "low-latency",
+        "voice-agents"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5265,7 +5399,12 @@
       "url": "https://play.ht/",
       "description": "Enterprise-grade text-to-speech with custom voice training, multi-language support, and scalable API.",
       "category": "audio-video",
-      "tags": ["tts", "voice-cloning", "enterprise", "api"],
+      "tags": [
+        "tts",
+        "voice-cloning",
+        "enterprise",
+        "api"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5274,7 +5413,12 @@
       "url": "https://lmnt.com/",
       "description": "Fast voice cloning from 5-second audio clips. Indie plan at $10/month with no concurrency limits. Great for game dev.",
       "category": "audio-video",
-      "tags": ["voice-cloning", "tts", "affordable", "game-dev"],
+      "tags": [
+        "voice-cloning",
+        "tts",
+        "affordable",
+        "game-dev"
+      ],
       "pricing": "freemium",
       "price": "$10/mo",
       "isNew": true
@@ -5284,7 +5428,12 @@
       "url": "https://fish.audio/",
       "description": "Voice cloning from 10 seconds of audio with 48+ emotional expressions. Cross-language voice transfer and multilingual support.",
       "category": "audio-video",
-      "tags": ["voice-cloning", "multilingual", "emotional-tts", "open-source"],
+      "tags": [
+        "voice-cloning",
+        "multilingual",
+        "emotional-tts",
+        "open-source"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5293,7 +5442,12 @@
       "url": "https://sesame.com/",
       "description": "Conversational speech model crossing the uncanny valley with natural pauses, tonal emphasis, and emotional responsiveness.",
       "category": "audio-video",
-      "tags": ["conversational-ai", "voice-companion", "natural-speech", "research"],
+      "tags": [
+        "conversational-ai",
+        "voice-companion",
+        "natural-speech",
+        "research"
+      ],
       "pricing": "free",
       "isNew": true
     },
@@ -5302,7 +5456,12 @@
       "url": "https://exa.ai/",
       "description": "AI search engine for retrieving original sources (research papers, code repos, deep web) rather than SEO-optimized summaries. Developer API.",
       "category": "productivity",
-      "tags": ["search-engine", "api", "research", "developer-tools"],
+      "tags": [
+        "search-engine",
+        "api",
+        "research",
+        "developer-tools"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5311,7 +5470,12 @@
       "url": "https://you.com/",
       "description": "AI search with 30+ specialized agents for research, writing, and coding. Web app, mobile, and Chrome extension.",
       "category": "productivity",
-      "tags": ["ai-search", "multi-agent", "research", "general-purpose"],
+      "tags": [
+        "ai-search",
+        "multi-agent",
+        "research",
+        "general-purpose"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5320,7 +5484,12 @@
       "url": "https://phind.com/",
       "description": "Developer-focused AI search with VS Code integration. Searches docs, GitHub threads, and technical blogs with code-aware reasoning.",
       "category": "coding",
-      "tags": ["developer-search", "code-aware", "vscode", "documentation"],
+      "tags": [
+        "developer-search",
+        "code-aware",
+        "vscode",
+        "documentation"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5329,7 +5498,12 @@
       "url": "https://kagi.com/",
       "description": "Ad-free, tracker-free paid search engine. Filters out SEO clutter for clean, relevant results with an integrated AI assistant.",
       "category": "productivity",
-      "tags": ["privacy-search", "ad-free", "quality-search", "ai-assistant"],
+      "tags": [
+        "privacy-search",
+        "ad-free",
+        "quality-search",
+        "ai-assistant"
+      ],
       "pricing": "paid",
       "price": "$10/mo",
       "isNew": true
@@ -5339,7 +5513,12 @@
       "url": "https://sudowrite.com/",
       "description": "AI writing partner for fiction authors with its custom Muse model fine-tuned on published novels. Preferred 2x over Claude for fiction prose.",
       "category": "productivity",
-      "tags": ["fiction-writing", "creative-ai", "novel", "storytelling"],
+      "tags": [
+        "fiction-writing",
+        "creative-ai",
+        "novel",
+        "storytelling"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5348,7 +5527,12 @@
       "url": "https://novelai.net/",
       "description": "Storytelling AI using its custom Kayra model with minimal content filters. Ideal for horror, dark fiction, and complex narratives.",
       "category": "productivity",
-      "tags": ["fiction-writing", "storytelling", "creative-ai", "novel"],
+      "tags": [
+        "fiction-writing",
+        "storytelling",
+        "creative-ai",
+        "novel"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5357,7 +5541,12 @@
       "url": "https://squibler.io/",
       "description": "Structured AI writing platform for novelists and screenwriters. Character, plot, and chapter frameworks before generating content.",
       "category": "productivity",
-      "tags": ["novel-writing", "screenplay", "structured-writing", "fiction"],
+      "tags": [
+        "novel-writing",
+        "screenplay",
+        "structured-writing",
+        "fiction"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5366,7 +5555,12 @@
       "url": "https://photoroom.com/",
       "description": "AI product photography for e-commerce. Background removal in 450ms, outperforming competitors. Built for marketplace sellers.",
       "category": "design",
-      "tags": ["photo-editing", "ecommerce", "background-removal", "product-photos"],
+      "tags": [
+        "photo-editing",
+        "ecommerce",
+        "background-removal",
+        "product-photos"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5375,7 +5569,12 @@
       "url": "https://clipdrop.co/",
       "description": "Swiss Army knife of AI image tools by Stability AI: background removal, upscaling up to 16x, inpainting, and text-prompted backgrounds.",
       "category": "design",
-      "tags": ["photo-editing", "upscaling", "background-removal", "stable-diffusion"],
+      "tags": [
+        "photo-editing",
+        "upscaling",
+        "background-removal",
+        "stable-diffusion"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5384,7 +5583,12 @@
       "url": "https://skylum.com/luminar",
       "description": "AI photo editor with one-click sky replacement, portrait retouching, bokeh simulation, and lighting adjustments. Photoshop alternative.",
       "category": "design",
-      "tags": ["photo-editing", "photography", "sky-replacement", "portrait"],
+      "tags": [
+        "photo-editing",
+        "photography",
+        "sky-replacement",
+        "portrait"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5393,7 +5597,12 @@
       "url": "https://pitch.com/",
       "description": "Collaborative presentation tool for startup teams and sales decks with AI generation and real-time team editing.",
       "category": "productivity",
-      "tags": ["presentations", "collaboration", "sales-decks", "startup"],
+      "tags": [
+        "presentations",
+        "collaboration",
+        "sales-decks",
+        "startup"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5402,7 +5611,12 @@
       "url": "https://slidesai.io/",
       "description": "AI presentation generator that works inside Google Slides and PowerPoint. Generate or edit slides in the apps you already use.",
       "category": "productivity",
-      "tags": ["presentations", "google-slides", "powerpoint", "ai-generation"],
+      "tags": [
+        "presentations",
+        "google-slides",
+        "powerpoint",
+        "ai-generation"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5411,7 +5625,12 @@
       "url": "https://tome.app/",
       "description": "AI-powered sales enablement tool generating sales-focused presentations and content from prompts for B2B teams.",
       "category": "marketing",
-      "tags": ["sales-enablement", "presentations", "ai-content", "b2b"],
+      "tags": [
+        "sales-enablement",
+        "presentations",
+        "ai-content",
+        "b2b"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5420,7 +5639,12 @@
       "url": "https://d-id.com/",
       "description": "Create lifelike AI avatars from images and videos with sub-2-second response. Used for customer-facing video, training, and marketing.",
       "category": "audio-video",
-      "tags": ["ai-avatars", "digital-humans", "video-generation", "lip-sync"],
+      "tags": [
+        "ai-avatars",
+        "digital-humans",
+        "video-generation",
+        "lip-sync"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5429,7 +5653,12 @@
       "url": "https://colossyan.com/",
       "description": "AI avatar platform for training videos with branching scenarios, quizzes, and SCORM export. 150+ avatars, 80+ languages.",
       "category": "audio-video",
-      "tags": ["training-videos", "ai-avatars", "elearning", "enterprise"],
+      "tags": [
+        "training-videos",
+        "ai-avatars",
+        "elearning",
+        "enterprise"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5438,7 +5667,12 @@
       "url": "https://snaptrude.com/",
       "description": "Cloud-based AI building design tool analyzing zoning, codes, and site conditions to generate 3D architectural models from text.",
       "category": "3d",
-      "tags": ["architecture", "cad", "building-design", "3d-modeling"],
+      "tags": [
+        "architecture",
+        "cad",
+        "building-design",
+        "3d-modeling"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5447,7 +5681,12 @@
       "url": "https://testfit.io/",
       "description": "AI site planning and feasibility analysis for architects. Generates building massings, unit layouts, parking, and financial pro formas.",
       "category": "3d",
-      "tags": ["site-planning", "feasibility", "architecture", "real-estate"],
+      "tags": [
+        "site-planning",
+        "feasibility",
+        "architecture",
+        "real-estate"
+      ],
       "pricing": "paid",
       "price": "$250/mo",
       "isNew": true
@@ -5457,7 +5696,12 @@
       "url": "https://hypar.io/",
       "description": "Encode design rules into reusable AI templates that auto-generate full building designs. Great for modular construction.",
       "category": "3d",
-      "tags": ["generative-design", "modular-construction", "building-codes", "automation"],
+      "tags": [
+        "generative-design",
+        "modular-construction",
+        "building-codes",
+        "automation"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5466,7 +5710,12 @@
       "url": "https://julius.ai/",
       "description": "Upload CSV or connect a database, ask questions in plain English, get charts and statistical summaries. No code required.",
       "category": "data",
-      "tags": ["data-analysis", "no-code", "visualization", "natural-language"],
+      "tags": [
+        "data-analysis",
+        "no-code",
+        "visualization",
+        "natural-language"
+      ],
       "pricing": "freemium",
       "price": "$20/mo",
       "isNew": true
@@ -5476,7 +5725,12 @@
       "url": "https://hex.tech/",
       "description": "Collaborative notebook combining SQL + Python/R with AI assistance, version control, scheduling, and interactive reports.",
       "category": "data",
-      "tags": ["data-notebook", "sql", "python", "collaboration"],
+      "tags": [
+        "data-notebook",
+        "sql",
+        "python",
+        "collaboration"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5485,16 +5739,26 @@
       "url": "https://observablehq.com/",
       "description": "JavaScript-based reactive notebook where cells auto-update when dependencies change. Built for interactive data visualizations.",
       "category": "data",
-      "tags": ["data-visualization", "javascript", "reactive", "notebooks"],
+      "tags": [
+        "data-visualization",
+        "javascript",
+        "reactive",
+        "notebooks"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
     {
       "name": "Scite",
       "url": "https://scite.ai/",
-      "description": "Evaluates the strength of scientific claims by analyzing how papers cite each other — supporting, contradicting, or mentioning.",
+      "description": "Evaluates the strength of scientific claims by analyzing how papers cite each other \u2014 supporting, contradicting, or mentioning.",
       "category": "science",
-      "tags": ["academic-research", "citation-analysis", "evidence-evaluation", "science"],
+      "tags": [
+        "academic-research",
+        "citation-analysis",
+        "evidence-evaluation",
+        "science"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5503,7 +5767,12 @@
       "url": "https://paperguide.ai/",
       "description": "AI academic research tool for paper discovery, summarization, and literature review with citation management.",
       "category": "science",
-      "tags": ["academic-research", "paper-discovery", "literature-review", "citations"],
+      "tags": [
+        "academic-research",
+        "paper-discovery",
+        "literature-review",
+        "citations"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5512,7 +5781,12 @@
       "url": "https://afforai.com/",
       "description": "AI research assistant for multi-document Q&A with citation tracking. Upload papers for cross-reference analysis.",
       "category": "productivity",
-      "tags": ["research", "document-qa", "citations", "knowledge-management"],
+      "tags": [
+        "research",
+        "document-qa",
+        "citations",
+        "knowledge-management"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5521,7 +5795,12 @@
       "url": "https://mastra.ai/",
       "description": "TypeScript-first AI agent framework. Leading choice for TS teams building multi-agent orchestration in 2026.",
       "category": "coding",
-      "tags": ["typescript", "agent-framework", "orchestration", "developer-tools"],
+      "tags": [
+        "typescript",
+        "agent-framework",
+        "orchestration",
+        "developer-tools"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5530,7 +5809,12 @@
       "url": "https://relevanceai.com/",
       "description": "Low-code AI agent builder for business teams. Visual workflow editor for e-commerce, support, and analytics automation.",
       "category": "productivity",
-      "tags": ["no-code", "ai-agents", "business-automation", "low-code"],
+      "tags": [
+        "no-code",
+        "ai-agents",
+        "business-automation",
+        "low-code"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5539,7 +5823,12 @@
       "url": "https://dust.tt/",
       "description": "Team AI platform connecting Slack, Notion, Google Drive, and GitHub to keep company knowledge queryable via AI agents.",
       "category": "productivity",
-      "tags": ["knowledge-management", "team-ai", "integrations", "enterprise"],
+      "tags": [
+        "knowledge-management",
+        "team-ai",
+        "integrations",
+        "enterprise"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5548,7 +5837,12 @@
       "url": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
       "description": "DeepMind's real-time interactive world model generating persistent 3D environments from text and images. Groundbreaking research.",
       "category": "3d",
-      "tags": ["world-model", "3d-generation", "interactive", "deepmind"],
+      "tags": [
+        "world-model",
+        "3d-generation",
+        "interactive",
+        "deepmind"
+      ],
       "pricing": "upcoming",
       "status": "Research Preview",
       "isNew": true
@@ -5558,7 +5852,12 @@
       "url": "https://warp.dev/",
       "description": "AI-native terminal with built-in command suggestions, natural language to shell, and collaborative terminal sharing for teams.",
       "category": "coding",
-      "tags": ["terminal", "ai-assistant", "developer-tools", "collaboration"],
+      "tags": [
+        "terminal",
+        "ai-assistant",
+        "developer-tools",
+        "collaboration"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5567,7 +5866,12 @@
       "url": "https://pieces.app/",
       "description": "AI-powered developer productivity tool that captures, enriches, and reuses code snippets with context across your workflow.",
       "category": "coding",
-      "tags": ["code-snippets", "developer-productivity", "context-aware", "workflow"],
+      "tags": [
+        "code-snippets",
+        "developer-productivity",
+        "context-aware",
+        "workflow"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5576,16 +5880,26 @@
       "url": "https://voiceflow.com/",
       "description": "Enterprise platform for building AI voice and chat agents with visual workflow builder, team collaboration, and knowledge base.",
       "category": "productivity",
-      "tags": ["voice-agents", "chatbots", "no-code", "enterprise"],
+      "tags": [
+        "voice-agents",
+        "chatbots",
+        "no-code",
+        "enterprise"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
     {
       "name": "Gumloop",
       "url": "https://gumloop.com/",
-      "description": "Visual AI automation builder — describe workflows in natural language and it generates automation pipelines. Trending no-code agent builder.",
+      "description": "Visual AI automation builder \u2014 describe workflows in natural language and it generates automation pipelines. Trending no-code agent builder.",
       "category": "productivity",
-      "tags": ["automation", "no-code", "visual-builder", "ai-agents"],
+      "tags": [
+        "automation",
+        "no-code",
+        "visual-builder",
+        "ai-agents"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5594,7 +5908,12 @@
       "url": "https://khanmigo.ai/",
       "description": "Khan Academy's GPT-4 powered AI tutor using Socratic method. Guides students through problems without giving answers.",
       "category": "education",
-      "tags": ["tutoring", "k12", "socratic-method", "learning"],
+      "tags": [
+        "tutoring",
+        "k12",
+        "socratic-method",
+        "learning"
+      ],
       "pricing": "paid",
       "price": "$44/yr",
       "isNew": true
@@ -5604,7 +5923,12 @@
       "url": "https://duolingo.com/",
       "description": "AI-enhanced language learning with deep-dive answer explanations and freeform AI roleplay conversations in target languages.",
       "category": "education",
-      "tags": ["language-learning", "roleplay", "tutoring", "ai-conversation"],
+      "tags": [
+        "language-learning",
+        "roleplay",
+        "tutoring",
+        "ai-conversation"
+      ],
       "pricing": "paid",
       "price": "$13.99/mo",
       "isNew": true
@@ -5614,7 +5938,12 @@
       "url": "https://photomath.com/",
       "description": "Point your camera at a math problem and get step-by-step solutions with explanations. Now integrated with Google's AI reasoning.",
       "category": "education",
-      "tags": ["math-solver", "camera", "step-by-step", "mobile"],
+      "tags": [
+        "math-solver",
+        "camera",
+        "step-by-step",
+        "mobile"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5623,7 +5952,12 @@
       "url": "https://mujoco.org/",
       "description": "Google DeepMind's open-source physics engine for fast, accurate simulation of articulated structures. The standard for RL research in robotics.",
       "category": "robotics",
-      "tags": ["simulation", "physics-engine", "reinforcement-learning", "open-source"],
+      "tags": [
+        "simulation",
+        "physics-engine",
+        "reinforcement-learning",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5632,7 +5966,12 @@
       "url": "https://gazebosim.org/",
       "description": "Open-source robotics simulator with high-fidelity physics, rendering, and sensor models. Deep ROS 2 integration for multi-robot simulation.",
       "category": "robotics",
-      "tags": ["simulation", "ROS", "multi-robot", "open-source"],
+      "tags": [
+        "simulation",
+        "ROS",
+        "multi-robot",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5641,7 +5980,12 @@
       "url": "https://drake.mit.edu/",
       "description": "MIT/Toyota Research toolbox for multibody dynamics, planning, control, and optimization of robotic systems in C++ and Python.",
       "category": "robotics",
-      "tags": ["simulation", "planning", "control", "open-source"],
+      "tags": [
+        "simulation",
+        "planning",
+        "control",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5650,7 +5994,12 @@
       "url": "https://github.com/isaac-sim/IsaacLab",
       "description": "GPU-accelerated framework for robot learning built on Isaac Sim. Unifies reinforcement learning, imitation learning, and motion planning at scale.",
       "category": "robotics",
-      "tags": ["simulation", "GPU-accelerated", "robot-learning", "nvidia"],
+      "tags": [
+        "simulation",
+        "GPU-accelerated",
+        "robot-learning",
+        "nvidia"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5659,7 +6008,12 @@
       "url": "https://www.pi.website/",
       "description": "First generalist robotic foundation model (vision-language-action) controlling diverse robots across tasks like folding laundry and assembling boxes.",
       "category": "robotics",
-      "tags": ["foundation-model", "VLA", "generalist-robot", "open-source"],
+      "tags": [
+        "foundation-model",
+        "VLA",
+        "generalist-robot",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5668,7 +6022,12 @@
       "url": "https://openvla.github.io/",
       "description": "Open-source 7B-param vision-language-action model trained on 970K real-world robot demos. Outperforms RT-2-X (55B) with 7x fewer parameters.",
       "category": "robotics",
-      "tags": ["foundation-model", "VLA", "manipulation", "open-source"],
+      "tags": [
+        "foundation-model",
+        "VLA",
+        "manipulation",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5677,7 +6036,12 @@
       "url": "https://octo-models.github.io/",
       "description": "Open-source generalist robot policy pretrained on 800K episodes from Open X-Embodiment. Supports language and goal-image instructions.",
       "category": "robotics",
-      "tags": ["foundation-model", "generalist-policy", "manipulation", "open-source"],
+      "tags": [
+        "foundation-model",
+        "generalist-policy",
+        "manipulation",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5686,7 +6050,12 @@
       "url": "https://www.tesla.com/",
       "description": "Tesla's general-purpose humanoid robot with 22-DOF hands and Grok AI integration. Gen 3 production ramping, targeting $20-30K at scale.",
       "category": "robotics",
-      "tags": ["humanoid", "general-purpose", "manufacturing", "consumer"],
+      "tags": [
+        "humanoid",
+        "general-purpose",
+        "manufacturing",
+        "consumer"
+      ],
       "pricing": "upcoming",
       "status": "Production Ramp",
       "isNew": true
@@ -5696,7 +6065,12 @@
       "url": "https://www.agilityrobotics.com/",
       "description": "First commercially deployed humanoid for warehouse logistics. Handles 35lb payloads, deployed at Amazon and Spanx via RaaS model.",
       "category": "robotics",
-      "tags": ["humanoid", "warehouse", "logistics", "commercial"],
+      "tags": [
+        "humanoid",
+        "warehouse",
+        "logistics",
+        "commercial"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5705,7 +6079,12 @@
       "url": "https://apptronik.com/apollo",
       "description": "Human-scale humanoid for industrial workflows. 55lb payload, 22hr/day operation, deployed at Mercedes-Benz and Jabil.",
       "category": "robotics",
-      "tags": ["humanoid", "industrial", "manufacturing", "logistics"],
+      "tags": [
+        "humanoid",
+        "industrial",
+        "manufacturing",
+        "logistics"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5714,7 +6093,12 @@
       "url": "https://www.sanctuary.ai/",
       "description": "General-purpose humanoid powered by Carbon AI combining symbolic reasoning, LLMs, and RL. 21-DOF hydraulic hands with tactile sensors.",
       "category": "robotics",
-      "tags": ["humanoid", "cognitive-AI", "general-purpose", "manipulation"],
+      "tags": [
+        "humanoid",
+        "cognitive-AI",
+        "general-purpose",
+        "manipulation"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5723,7 +6107,12 @@
       "url": "https://www.fftai.com/",
       "description": "Mass-produced humanoid robots (GR-1/2/3) for research and industry. GR-2 offers 53 DOF at 175cm with 5,000-unit annual production.",
       "category": "robotics",
-      "tags": ["humanoid", "research", "healthcare", "manufacturing"],
+      "tags": [
+        "humanoid",
+        "research",
+        "healthcare",
+        "manufacturing"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5732,7 +6121,12 @@
       "url": "https://www.universal-robots.com/",
       "description": "World's leading collaborative robot arms. UR3e/UR5e/UR10e/UR20 work safely alongside humans for pick-and-place, welding, and assembly.",
       "category": "robotics",
-      "tags": ["cobot", "robot-arm", "manufacturing", "collaborative"],
+      "tags": [
+        "cobot",
+        "robot-arm",
+        "manufacturing",
+        "collaborative"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5741,7 +6135,12 @@
       "url": "https://franka.de/",
       "description": "Force-sensitive 7-axis robot arm for AI research. Torque sensors at each joint, 0.1mm repeatability, and low-level control access.",
       "category": "robotics",
-      "tags": ["robot-arm", "research", "AI-ready", "manipulation"],
+      "tags": [
+        "robot-arm",
+        "research",
+        "AI-ready",
+        "manipulation"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5750,7 +6149,12 @@
       "url": "https://www.skydio.com/",
       "description": "AI-powered autonomous drones with real-time obstacle avoidance for inspection, public safety, and defense. NightSense for zero-light ops.",
       "category": "robotics",
-      "tags": ["drone", "autonomous", "inspection", "AI-navigation"],
+      "tags": [
+        "drone",
+        "autonomous",
+        "inspection",
+        "AI-navigation"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5759,7 +6163,12 @@
       "url": "https://www.zipline.com/",
       "description": "World's largest autonomous delivery system with 2M+ deliveries and 120M+ autonomous miles across 7 countries.",
       "category": "robotics",
-      "tags": ["drone", "delivery", "autonomous", "logistics"],
+      "tags": [
+        "drone",
+        "delivery",
+        "autonomous",
+        "logistics"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5768,7 +6177,12 @@
       "url": "https://wing.com/",
       "description": "Alphabet's autonomous drone delivery with 450,000+ deliveries. Decentralized system managing drones, landing pads, and AutoLoader devices.",
       "category": "robotics",
-      "tags": ["drone", "delivery", "autonomous", "last-mile"],
+      "tags": [
+        "drone",
+        "delivery",
+        "autonomous",
+        "last-mile"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5777,7 +6191,12 @@
       "url": "https://waymo.com/",
       "description": "Global leader in Level 4 robotaxis with 3,000+ vehicles across 10 US cities and 500K+ paid rides per week.",
       "category": "robotics",
-      "tags": ["autonomous-vehicle", "robotaxi", "self-driving", "ride-hailing"],
+      "tags": [
+        "autonomous-vehicle",
+        "robotaxi",
+        "self-driving",
+        "ride-hailing"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5786,7 +6205,12 @@
       "url": "https://autoware.org/",
       "description": "Leading open-source autonomous driving stack on ROS 2. Full perception, localization, planning, and control modules.",
       "category": "robotics",
-      "tags": ["autonomous-driving", "open-source", "ROS", "self-driving"],
+      "tags": [
+        "autonomous-driving",
+        "open-source",
+        "ROS",
+        "self-driving"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5795,7 +6219,12 @@
       "url": "https://www.ros.org/",
       "description": "The de-facto standard open-source middleware for robotics. Tools, libraries, and conventions for building robot applications with real-time support.",
       "category": "robotics",
-      "tags": ["middleware", "operating-system", "open-source", "framework"],
+      "tags": [
+        "middleware",
+        "operating-system",
+        "open-source",
+        "framework"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5804,7 +6233,12 @@
       "url": "https://locusrobotics.com/",
       "description": "AI-powered autonomous mobile robots for warehouse fulfillment. 2-3x productivity improvement via Robots-as-a-Service model.",
       "category": "robotics",
-      "tags": ["warehouse", "AMR", "logistics", "RaaS"],
+      "tags": [
+        "warehouse",
+        "AMR",
+        "logistics",
+        "RaaS"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5813,7 +6247,12 @@
       "url": "https://www.symbotic.com/",
       "description": "AI-powered warehouse robotics using autonomous bots for case-level storage and retrieval. End-to-end distribution center automation.",
       "category": "robotics",
-      "tags": ["warehouse", "automation", "distribution", "AI"],
+      "tags": [
+        "warehouse",
+        "automation",
+        "distribution",
+        "AI"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5822,7 +6261,12 @@
       "url": "https://www.geekplus.com/",
       "description": "Global leader in AMR solutions for logistics with goods-to-person picking, sorting, and moving robots across 40+ countries.",
       "category": "robotics",
-      "tags": ["warehouse", "AMR", "logistics", "sorting"],
+      "tags": [
+        "warehouse",
+        "AMR",
+        "logistics",
+        "sorting"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5831,7 +6275,12 @@
       "url": "https://www.intuitive.com/",
       "description": "Dominant robotic surgery platform with 76,000+ trained surgeons and 14M+ procedures. da Vinci 5 brings AI-powered insights and force feedback.",
       "category": "robotics",
-      "tags": ["surgical", "medical", "AI-assisted", "minimally-invasive"],
+      "tags": [
+        "surgical",
+        "medical",
+        "AI-assisted",
+        "minimally-invasive"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5840,7 +6289,12 @@
       "url": "https://cmrsurgical.com/",
       "description": "Next-gen modular surgical robot with small, independent arms configurable for various procedures. FDA-cleared competitor to da Vinci.",
       "category": "robotics",
-      "tags": ["surgical", "medical", "modular", "minimally-invasive"],
+      "tags": [
+        "surgical",
+        "medical",
+        "modular",
+        "minimally-invasive"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5849,7 +6303,12 @@
       "url": "https://www.deere.com/en/autonomous/",
       "description": "Autonomous tractors with 360-degree vision and sub-inch GPS. See & Spray AI reduces herbicide by 59% targeting individual weeds.",
       "category": "robotics",
-      "tags": ["agriculture", "autonomous", "precision-farming", "AI-vision"],
+      "tags": [
+        "agriculture",
+        "autonomous",
+        "precision-farming",
+        "AI-vision"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5858,7 +6317,12 @@
       "url": "https://www.agrobot.com/",
       "description": "AI-powered harvesting robots with 24 independent arms using computer vision to identify ripe fruit and pick without damage.",
       "category": "robotics",
-      "tags": ["agriculture", "harvesting", "computer-vision", "manipulation"],
+      "tags": [
+        "agriculture",
+        "harvesting",
+        "computer-vision",
+        "manipulation"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5867,16 +6331,26 @@
       "url": "https://www.fbr.com.au/",
       "description": "Robotic bricklaying system automating wall construction with consistent speed and minimal waste for commercial and residential builds.",
       "category": "robotics",
-      "tags": ["construction", "bricklaying", "automation", "manufacturing"],
+      "tags": [
+        "construction",
+        "bricklaying",
+        "automation",
+        "manufacturing"
+      ],
       "pricing": "paid",
       "isNew": true
     },
     {
       "name": "Gravis Robotics",
       "url": "https://www.gravisrobotics.com/",
-      "description": "AI autonomy for heavy construction equipment — bulldozers and excavators. Deployed across UK, US, and EU construction sites.",
+      "description": "AI autonomy for heavy construction equipment \u2014 bulldozers and excavators. Deployed across UK, US, and EU construction sites.",
       "category": "robotics",
-      "tags": ["construction", "autonomous", "heavy-equipment", "AI"],
+      "tags": [
+        "construction",
+        "autonomous",
+        "heavy-equipment",
+        "AI"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5885,7 +6359,12 @@
       "url": "https://pony.ai/",
       "description": "Autonomous driving company targeting 3,000+ vehicle fleet across 20 cities. Partnered with Toyota for commercial robotaxi deployment.",
       "category": "robotics",
-      "tags": ["autonomous-vehicle", "robotaxi", "self-driving", "commercial"],
+      "tags": [
+        "autonomous-vehicle",
+        "robotaxi",
+        "self-driving",
+        "commercial"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5894,7 +6373,12 @@
       "url": "https://carla.org/",
       "description": "Open-source simulator for autonomous driving research with urban layouts, vehicles, and flexible API for sensor suites and traffic.",
       "category": "robotics",
-      "tags": ["simulation", "autonomous-driving", "open-source", "research"],
+      "tags": [
+        "simulation",
+        "autonomous-driving",
+        "open-source",
+        "research"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5903,7 +6387,12 @@
       "url": "https://robotics-transformer-x.github.io/",
       "description": "Google DeepMind dataset of 1M+ real robot episodes across 22 embodiments. Enables training generalist robot policies like RT-2-X.",
       "category": "robotics",
-      "tags": ["dataset", "foundation-model", "multi-robot", "research"],
+      "tags": [
+        "dataset",
+        "foundation-model",
+        "multi-robot",
+        "research"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -5912,7 +6401,12 @@
       "url": "https://semrush.com/",
       "description": "All-in-one SEO/PPC/social platform with AI-driven keyword research, site audits, and competitive analysis across 26B+ keywords.",
       "category": "marketing",
-      "tags": ["seo", "keyword-research", "competitive-analysis", "ppc"],
+      "tags": [
+        "seo",
+        "keyword-research",
+        "competitive-analysis",
+        "ppc"
+      ],
       "pricing": "paid",
       "price": "$139.95/mo",
       "isNew": true
@@ -5922,7 +6416,12 @@
       "url": "https://ahrefs.com/",
       "description": "Industry-leading backlink analysis and keyword research tool with AI visibility tracking for AI search results.",
       "category": "marketing",
-      "tags": ["seo", "backlinks", "keyword-research", "site-audit"],
+      "tags": [
+        "seo",
+        "backlinks",
+        "keyword-research",
+        "site-audit"
+      ],
       "pricing": "paid",
       "price": "$29/mo",
       "isNew": true
@@ -5932,7 +6431,12 @@
       "url": "https://surferseo.com/",
       "description": "On-page SEO optimization using live SERP analysis. Surfer AI generates full pre-optimized article drafts.",
       "category": "marketing",
-      "tags": ["seo", "content-optimization", "on-page", "ai-writing"],
+      "tags": [
+        "seo",
+        "content-optimization",
+        "on-page",
+        "ai-writing"
+      ],
       "pricing": "paid",
       "price": "$99/mo",
       "isNew": true
@@ -5942,7 +6446,12 @@
       "url": "https://marketmuse.com/",
       "description": "AI content strategy platform combining topic modeling, content gap analysis, and optimization workflows for content planners.",
       "category": "marketing",
-      "tags": ["seo", "content-strategy", "topic-modeling", "content-gap"],
+      "tags": [
+        "seo",
+        "content-strategy",
+        "topic-modeling",
+        "content-gap"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5951,7 +6460,12 @@
       "url": "https://buffer.com/",
       "description": "Social media scheduling and management with a free AI Assistant for caption generation on every plan.",
       "category": "marketing",
-      "tags": ["social-media", "scheduling", "ai-assistant", "content"],
+      "tags": [
+        "social-media",
+        "scheduling",
+        "ai-assistant",
+        "content"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5960,7 +6474,12 @@
       "url": "https://hootsuite.com/",
       "description": "Enterprise social media management with OwlyWriter AI for captions, image generation, and brand voice personalization.",
       "category": "marketing",
-      "tags": ["social-media", "scheduling", "enterprise", "ai-writing"],
+      "tags": [
+        "social-media",
+        "scheduling",
+        "enterprise",
+        "ai-writing"
+      ],
       "pricing": "paid",
       "price": "$99/mo",
       "isNew": true
@@ -5970,7 +6489,12 @@
       "url": "https://mailchimp.com/",
       "description": "Email marketing platform with AI send-time optimization, content suggestions, audience segmentation, and predictive analytics.",
       "category": "marketing",
-      "tags": ["email-marketing", "automation", "audience-segmentation", "analytics"],
+      "tags": [
+        "email-marketing",
+        "automation",
+        "audience-segmentation",
+        "analytics"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -5979,7 +6503,12 @@
       "url": "https://adcreative.ai/",
       "description": "AI-powered ad creative generation producing conversion-optimized banners, copy, and social media creatives.",
       "category": "marketing",
-      "tags": ["advertising", "creative-generation", "conversion", "social-media"],
+      "tags": [
+        "advertising",
+        "creative-generation",
+        "conversion",
+        "social-media"
+      ],
       "pricing": "paid",
       "price": "$29/mo",
       "isNew": true
@@ -5989,7 +6518,12 @@
       "url": "https://tokenmetrics.com/",
       "description": "AI-driven crypto analytics with price predictions, portfolio recommendations, and market indices using ML models.",
       "category": "finance",
-      "tags": ["crypto", "analytics", "ai-predictions", "portfolio"],
+      "tags": [
+        "crypto",
+        "analytics",
+        "ai-predictions",
+        "portfolio"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -5998,7 +6532,12 @@
       "url": "https://messari.io/",
       "description": "Crypto research and data platform with institutional-grade reports, real-time pricing, token unlock schedules for 40K+ assets.",
       "category": "finance",
-      "tags": ["crypto", "research", "institutional-data", "defi"],
+      "tags": [
+        "crypto",
+        "research",
+        "institutional-data",
+        "defi"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6007,7 +6546,12 @@
       "url": "https://nansen.ai/",
       "description": "On-chain analytics labeling 500M+ wallets to track smart money flows, DeFi activity, and exchange movements in real-time.",
       "category": "finance",
-      "tags": ["crypto", "on-chain-analytics", "wallet-tracking", "defi"],
+      "tags": [
+        "crypto",
+        "on-chain-analytics",
+        "wallet-tracking",
+        "defi"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6016,7 +6560,12 @@
       "url": "https://defillama.com/",
       "description": "Open-source DeFi dashboard tracking TVL across thousands of protocols and chains, with yield and lending rate monitoring.",
       "category": "finance",
-      "tags": ["defi", "tvl-tracking", "analytics", "open-source"],
+      "tags": [
+        "defi",
+        "tvl-tracking",
+        "analytics",
+        "open-source"
+      ],
       "pricing": "free",
       "isNew": true
     },
@@ -6025,7 +6574,12 @@
       "url": "https://3commas.io/",
       "description": "Multi-exchange crypto trading bot platform with DCA bots, grid bots, smart terminal, and portfolio management.",
       "category": "finance",
-      "tags": ["crypto", "trading-bots", "portfolio", "multi-exchange"],
+      "tags": [
+        "crypto",
+        "trading-bots",
+        "portfolio",
+        "multi-exchange"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6034,7 +6588,12 @@
       "url": "https://trade-ideas.com/",
       "description": "AI stock scanning platform with proprietary Holly AI running millions of simulated trades daily to find high-probability setups.",
       "category": "finance",
-      "tags": ["stock-trading", "ai-scanning", "day-trading", "alerts"],
+      "tags": [
+        "stock-trading",
+        "ai-scanning",
+        "day-trading",
+        "alerts"
+      ],
       "pricing": "paid",
       "price": "$118/mo",
       "isNew": true
@@ -6044,7 +6603,12 @@
       "url": "https://algosone.ai/",
       "description": "AI trading platform offering institutional-level algorithmic trading for retail investors across crypto, forex, and stocks.",
       "category": "finance",
-      "tags": ["algo-trading", "multi-asset", "signals", "backtesting"],
+      "tags": [
+        "algo-trading",
+        "multi-asset",
+        "signals",
+        "backtesting"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6053,7 +6617,12 @@
       "url": "https://darktrace.com/",
       "description": "Self-learning AI for autonomous threat detection across network, email, and cloud using unsupervised ML to identify novel attacks.",
       "category": "security",
-      "tags": ["threat-detection", "network-security", "autonomous", "ml"],
+      "tags": [
+        "threat-detection",
+        "network-security",
+        "autonomous",
+        "ml"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6062,7 +6631,12 @@
       "url": "https://crowdstrike.com/",
       "description": "Cloud-native endpoint protection combining EDR, threat intelligence, and behavioral analytics with AI-powered threat hunting.",
       "category": "security",
-      "tags": ["endpoint-protection", "edr", "threat-intelligence", "cloud-native"],
+      "tags": [
+        "endpoint-protection",
+        "edr",
+        "threat-intelligence",
+        "cloud-native"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6071,7 +6645,12 @@
       "url": "https://sentinelone.com/",
       "description": "Autonomous endpoint security using behavioral AI for real-time threat detection, prevention, and automated response.",
       "category": "security",
-      "tags": ["endpoint-protection", "autonomous", "behavioral-ai", "xdr"],
+      "tags": [
+        "endpoint-protection",
+        "autonomous",
+        "behavioral-ai",
+        "xdr"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6080,7 +6659,12 @@
       "url": "https://wiz.io/",
       "description": "Agentless cloud security with full-stack visibility across VMs, containers, and serverless with AI-powered risk prioritization.",
       "category": "security",
-      "tags": ["cloud-security", "vulnerability-management", "agentless", "risk"],
+      "tags": [
+        "cloud-security",
+        "vulnerability-management",
+        "agentless",
+        "risk"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6089,7 +6673,12 @@
       "url": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot",
       "description": "AI assistant for security ops using NLP for faster incident investigation, threat summarization, and guided remediation.",
       "category": "security",
-      "tags": ["siem", "incident-response", "nlp", "copilot"],
+      "tags": [
+        "siem",
+        "incident-response",
+        "nlp",
+        "copilot"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6098,7 +6687,12 @@
       "url": "https://lacework.net/",
       "description": "Cloud security using anomaly detection and behavioral analytics to identify threats across multi-cloud with automated compliance.",
       "category": "security",
-      "tags": ["cloud-security", "anomaly-detection", "compliance", "multi-cloud"],
+      "tags": [
+        "cloud-security",
+        "anomaly-detection",
+        "compliance",
+        "multi-cloud"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6107,16 +6701,26 @@
       "url": "https://vectra.ai/",
       "description": "AI-driven network detection and response using Attack Signal Intelligence to detect and prioritize real attacks across hybrid cloud.",
       "category": "security",
-      "tags": ["ndr", "attack-detection", "hybrid-cloud", "ai-triage"],
+      "tags": [
+        "ndr",
+        "attack-detection",
+        "hybrid-cloud",
+        "ai-triage"
+      ],
       "pricing": "paid",
       "isNew": true
     },
     {
       "name": "NVIDIA BioNeMo",
       "url": "https://www.nvidia.com/en-us/clara/bionemo/",
-      "description": "Cloud platform for generative biology and chemistry — protein prediction, drug discovery, molecular simulations, and RNA structure.",
+      "description": "Cloud platform for generative biology and chemistry \u2014 protein prediction, drug discovery, molecular simulations, and RNA structure.",
       "category": "science",
-      "tags": ["drug-discovery", "protein-prediction", "molecular-sim", "nvidia"],
+      "tags": [
+        "drug-discovery",
+        "protein-prediction",
+        "molecular-sim",
+        "nvidia"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6125,7 +6729,12 @@
       "url": "https://rdkit.org/",
       "description": "Standard open-source cheminformatics toolkit for molecular operations, descriptor generation, substructure search, and ML-ready featurization.",
       "category": "science",
-      "tags": ["cheminformatics", "molecular-modeling", "drug-discovery", "python"],
+      "tags": [
+        "cheminformatics",
+        "molecular-modeling",
+        "drug-discovery",
+        "python"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -6134,7 +6743,12 @@
       "url": "https://galaxyproject.org/",
       "description": "Open web platform for reproducible biomedical data analysis, integrating thousands of bioinformatics tools with workflow management.",
       "category": "science",
-      "tags": ["bioinformatics", "workflow", "reproducible-research", "genomics"],
+      "tags": [
+        "bioinformatics",
+        "workflow",
+        "reproducible-research",
+        "genomics"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -6143,7 +6757,12 @@
       "url": "https://benchling.com/",
       "description": "Cloud-based life science R&D platform combining notebook, sequence design, CRISPR guides, and inventory with AI-assisted experiment planning.",
       "category": "science",
-      "tags": ["lab-management", "molecular-biology", "crispr", "biotech"],
+      "tags": [
+        "lab-management",
+        "molecular-biology",
+        "crispr",
+        "biotech"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6152,7 +6771,12 @@
       "url": "https://wandb.ai/",
       "description": "ML experiment tracking, model versioning, and LLM observability with visualization dashboards and hyperparameter sweeps.",
       "category": "infrastructure",
-      "tags": ["experiment-tracking", "mlops", "observability", "collaboration"],
+      "tags": [
+        "experiment-tracking",
+        "mlops",
+        "observability",
+        "collaboration"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6161,7 +6785,12 @@
       "url": "https://mlflow.org/",
       "description": "Open-source MLOps platform for experiment tracking, model registry, and deployment. v3.0 adds GenAI evaluation with hallucination detection.",
       "category": "infrastructure",
-      "tags": ["mlops", "model-registry", "experiment-tracking", "open-source"],
+      "tags": [
+        "mlops",
+        "model-registry",
+        "experiment-tracking",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -6170,7 +6799,12 @@
       "url": "https://smith.langchain.com/",
       "description": "LLM evaluation and observability by LangChain for logging, tracing, and analyzing LLM interactions with safety testing.",
       "category": "infrastructure",
-      "tags": ["llm-evaluation", "observability", "tracing", "langchain"],
+      "tags": [
+        "llm-evaluation",
+        "observability",
+        "tracing",
+        "langchain"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6179,7 +6813,12 @@
       "url": "https://pinecone.io/",
       "description": "Managed serverless vector database optimized for similarity search at scale. Commonly used for RAG pipelines and semantic search.",
       "category": "infrastructure",
-      "tags": ["vector-database", "similarity-search", "rag", "serverless"],
+      "tags": [
+        "vector-database",
+        "similarity-search",
+        "rag",
+        "serverless"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6188,7 +6827,12 @@
       "url": "https://weaviate.io/",
       "description": "Open-source vector database with built-in ML modules for vectorization, semantic search, and hybrid keyword+vector filtering.",
       "category": "infrastructure",
-      "tags": ["vector-database", "semantic-search", "open-source", "hybrid-search"],
+      "tags": [
+        "vector-database",
+        "semantic-search",
+        "open-source",
+        "hybrid-search"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6197,7 +6841,12 @@
       "url": "https://qdrant.tech/",
       "description": "High-performance open-source vector database with advanced filtering and payload indexing. Optimized for production RAG workloads.",
       "category": "infrastructure",
-      "tags": ["vector-database", "filtering", "open-source", "rag"],
+      "tags": [
+        "vector-database",
+        "filtering",
+        "open-source",
+        "rag"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6206,7 +6855,12 @@
       "url": "https://bentoml.com/",
       "description": "Open-source model serving framework simplifying packaging, containerization, and deployment of ML models with auto-scaling.",
       "category": "infrastructure",
-      "tags": ["model-serving", "deployment", "containerization", "open-source"],
+      "tags": [
+        "model-serving",
+        "deployment",
+        "containerization",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -6215,7 +6869,12 @@
       "url": "https://arize.com/",
       "description": "ML and LLM observability with tracing, evaluation, and production monitoring. Arize Phoenix provides open-source agent trace visualization.",
       "category": "infrastructure",
-      "tags": ["ml-observability", "llm-monitoring", "tracing", "production"],
+      "tags": [
+        "ml-observability",
+        "llm-monitoring",
+        "tracing",
+        "production"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6224,7 +6883,12 @@
       "url": "https://brilliant.org/",
       "description": "Interactive STEM learning with 60+ courses in math, science, and CS using hands-on problem solving and visual explanations.",
       "category": "education",
-      "tags": ["stem", "interactive-learning", "math", "problem-solving"],
+      "tags": [
+        "stem",
+        "interactive-learning",
+        "math",
+        "problem-solving"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6233,7 +6897,12 @@
       "url": "https://knowt.com/",
       "description": "Free Quizlet alternative generating flashcards, quizzes, and games from lecture recordings and notes with AI spaced repetition.",
       "category": "education",
-      "tags": ["flashcards", "spaced-repetition", "ai-generation", "study"],
+      "tags": [
+        "flashcards",
+        "spaced-repetition",
+        "ai-generation",
+        "study"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6242,7 +6911,12 @@
       "url": "https://studyfetch.com/",
       "description": "AI learning platform building personalized study plans from uploaded materials with flashcards, quizzes, and practice tests.",
       "category": "education",
-      "tags": ["study-plans", "flashcards", "quizzes", "ai-tutor"],
+      "tags": [
+        "study-plans",
+        "flashcards",
+        "quizzes",
+        "ai-tutor"
+      ],
       "pricing": "paid",
       "price": "$19/mo",
       "isNew": true
@@ -6252,7 +6926,12 @@
       "url": "https://mindgrasp.ai/",
       "description": "AI study tool generating notes, flashcards, quizzes, summaries, and an AI tutor from any uploaded content.",
       "category": "education",
-      "tags": ["notes", "flashcards", "ai-tutor", "summarization"],
+      "tags": [
+        "notes",
+        "flashcards",
+        "ai-tutor",
+        "summarization"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6261,7 +6940,12 @@
       "url": "https://codecademy.com/",
       "description": "Interactive coding education with AI-assisted learning paths, hands-on projects, and guidance across 14+ programming languages.",
       "category": "education",
-      "tags": ["coding-education", "interactive", "programming", "career-paths"],
+      "tags": [
+        "coding-education",
+        "interactive",
+        "programming",
+        "career-paths"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6270,7 +6954,12 @@
       "url": "https://gradescope.com/",
       "description": "AI-assisted grading platform automating assessment of multiple-choice, fill-in-the-blank, and coding assignments with instant feedback.",
       "category": "education",
-      "tags": ["grading", "assessment", "automation", "feedback"],
+      "tags": [
+        "grading",
+        "assessment",
+        "automation",
+        "feedback"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6279,7 +6968,12 @@
       "url": "https://airbyte.com/",
       "description": "Open-source data integration/ELT platform with 300+ connectors for extracting and loading data from any source to any destination.",
       "category": "data",
-      "tags": ["etl", "data-integration", "open-source", "connectors"],
+      "tags": [
+        "etl",
+        "data-integration",
+        "open-source",
+        "connectors"
+      ],
       "pricing": "freemium",
       "isNew": true
     },
@@ -6288,7 +6982,12 @@
       "url": "https://fivetran.com/",
       "description": "Managed ELT platform with 150+ pre-built connectors and automated schema handling. Merged with dbt Labs for unified pipelines.",
       "category": "data",
-      "tags": ["etl", "managed", "data-pipeline", "connectors"],
+      "tags": [
+        "etl",
+        "managed",
+        "data-pipeline",
+        "connectors"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6297,7 +6996,12 @@
       "url": "https://atlan.com/",
       "description": "AI-native active metadata platform auto-cataloging data assets across Snowflake, Databricks, dbt with automated lineage and governance.",
       "category": "data",
-      "tags": ["data-catalog", "metadata", "governance", "lineage"],
+      "tags": [
+        "data-catalog",
+        "metadata",
+        "governance",
+        "lineage"
+      ],
       "pricing": "paid",
       "isNew": true
     },
@@ -6306,7 +7010,12 @@
       "url": "https://greatexpectations.io/",
       "description": "Open-source data quality and validation framework. Define, test, and document data expectations with automated profiling.",
       "category": "data",
-      "tags": ["data-quality", "validation", "testing", "open-source"],
+      "tags": [
+        "data-quality",
+        "validation",
+        "testing",
+        "open-source"
+      ],
       "pricing": "open-source",
       "isNew": true
     },
@@ -6315,8 +7024,239 @@
       "url": "https://ataccama.com/",
       "description": "AI-powered data quality and governance with an autonomous AI agent that profiles data, assesses quality, and creates rules automatically.",
       "category": "data",
-      "tags": ["data-quality", "ai-agent", "governance", "profiling"],
+      "tags": [
+        "data-quality",
+        "ai-agent",
+        "governance",
+        "profiling"
+      ],
       "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Claw Code",
+      "url": "https://claw-code.codes/",
+      "description": "Open-source AI coding agent framework, born from a clean-room rewrite of Claude Code's accidentally leaked TypeScript architecture. Reached 172k+ GitHub stars within months of its April 2026 launch.",
+      "category": "coding",
+      "tags": [
+        "agentic",
+        "open-source",
+        "terminal",
+        "coding-agent",
+        "autonomous"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Hermes Agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "Self-improving open-source AI agent by Nous Research with persistent three-layer memory, 118+ bundled skills, and a closed learning loop that builds reusable skills from experience. 134k+ GitHub stars.",
+      "category": "coding",
+      "tags": [
+        "agentic",
+        "open-source",
+        "autonomous",
+        "self-improving",
+        "persistent-memory"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "vLLM",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "High-throughput, memory-efficient LLM inference and serving engine with PagedAttention, continuous batching, and OpenAI-compatible API. The de facto open-source standard for production LLM deployment, supporting 200+ model architectures.",
+      "category": "infrastructure",
+      "tags": [
+        "llm-serving",
+        "inference",
+        "open-source",
+        "production",
+        "high-throughput"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "SGLang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "High-performance LLM serving framework with RadixAttention for prefix caching, delivering ~29% higher throughput than vLLM on shared-prefix workloads like RAG and multi-turn chat. Runs on 400k+ GPUs worldwide.",
+      "category": "infrastructure",
+      "tags": [
+        "llm-serving",
+        "inference",
+        "open-source",
+        "high-throughput",
+        "radix-attention"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "TokenSpeed",
+      "url": "https://lightseek.org/blog/lightseek-tokenspeed.html",
+      "description": "MIT-licensed open-source LLM inference engine by LightSeek Foundation, built for agentic workloads with 50k+ token contexts. Outperforms TensorRT-LLM by ~9% latency and ~11% throughput on NVIDIA B200.",
+      "category": "infrastructure",
+      "tags": [
+        "llm-serving",
+        "inference",
+        "open-source",
+        "agentic",
+        "kv-cache"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Lightdash",
+      "url": "https://github.com/lightdash/lightdash",
+      "description": "Open-source agentic BI platform built natively for dbt, turning dbt models into explorable dashboards. Metrics are defined once in version-controlled YAML files and surface instantly in collaborative dashboards.",
+      "category": "data",
+      "tags": [
+        "bi",
+        "dbt",
+        "open-source",
+        "dashboards",
+        "analytics"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "DiffRhythm",
+      "url": "https://github.com/ASLP-lab/DiffRhythm",
+      "description": "First open-source latent diffusion-based full-song generator producing complete tracks (up to 4m 45s) with synchronized vocals and instrumentals in ~10 seconds. Apache 2.0 licensed.",
+      "category": "audio-video",
+      "tags": [
+        "music-generation",
+        "open-source",
+        "full-song",
+        "latent-diffusion",
+        "vocals"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "DiffRhythm 2",
+      "url": "https://github.com/ASLP-lab/DiffRhythm2",
+      "description": "Next-generation open-source full-song generator using block flow matching for higher fidelity and precise lyric alignment, producing songs up to 3m 30s. Outperforms all open-source alternatives in objective and subjective evaluations.",
+      "category": "audio-video",
+      "tags": [
+        "music-generation",
+        "open-source",
+        "full-song",
+        "flow-matching",
+        "high-fidelity"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Postiz",
+      "url": "https://postiz.com/",
+      "description": "Open-source agentic social media scheduling tool supporting 9+ platforms. Features AI Copilot, auto-complete, image/video generation, and a built-in Canva-like editor. Self-hostable with no difference from the cloud version.",
+      "category": "marketing",
+      "tags": [
+        "social-media",
+        "scheduling",
+        "open-source",
+        "ai-copilot",
+        "self-hosted"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Garak",
+      "url": "https://github.com/NVIDIA/garak",
+      "description": "NVIDIA's open-source LLM vulnerability scanner that probes language models for prompt injection, jailbreaks, data leakage, hallucination, and toxicity \u2014 the 'nmap for LLMs'. Supports OpenAI, HuggingFace, LiteLLM, and GGUF models.",
+      "category": "security",
+      "tags": [
+        "llm-security",
+        "red-teaming",
+        "open-source",
+        "vulnerability-scanner",
+        "prompt-injection"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "Caido",
+      "url": "https://caido.io/",
+      "description": "Modern web hacking toolkit and HTTP proxy with AI-powered workflows, built as a fast open-source alternative to Burp Suite. Lets security researchers intercept, replay, and automate requests with LLM-generated payloads.",
+      "category": "security",
+      "tags": [
+        "web-security",
+        "pentesting",
+        "proxy",
+        "open-source",
+        "http"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
+      "name": "Datadog SAIST",
+      "url": "https://github.com/DataDog/datadog-saist",
+      "description": "Open-source AI-native SAST by Datadog that uses LLMs (Claude, GPT, Gemini) for contextual vulnerability detection, outperforming traditional rule-based scanners on OWASP benchmarks. Supports Java, Python, and Go.",
+      "category": "security",
+      "tags": [
+        "sast",
+        "open-source",
+        "ai-native",
+        "vulnerability",
+        "code-security"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "OpenAI Daybreak",
+      "url": "https://openai.com/",
+      "description": "OpenAI's cybersecurity initiative launched May 2026 using GPT-5.5 and Codex Security to automate vulnerability detection, threat modeling, and patch generation across the full software development lifecycle. Partners include Cloudflare, Cisco, and CrowdStrike.",
+      "category": "security",
+      "tags": [
+        "vulnerability-detection",
+        "devsecops",
+        "ai-native",
+        "patch-generation",
+        "threat-modeling"
+      ],
+      "pricing": "paid",
+      "isNew": true
+    },
+    {
+      "name": "Synthesis Tutor",
+      "url": "https://www.synthesis.com/tutor",
+      "description": "AI-powered K-5 math tutor originating from SpaceX's Ad Astra school. Provides personalized superhuman math instruction for children aged 5-11 with adaptive lessons and real-time AI guidance.",
+      "category": "education",
+      "tags": [
+        "math-tutoring",
+        "k-12",
+        "personalized-learning",
+        "adaptive",
+        "kids"
+      ],
+      "pricing": "paid",
+      "price": "$20/mo",
+      "isNew": true
+    },
+    {
+      "name": "Autodesk Wonder 3D",
+      "url": "https://www.autodesk.com/campaigns/flow-studio",
+      "description": "Generative AI model inside Autodesk Flow Studio that turns text prompts or reference images into fully editable 3D characters and props. Available across all Flow Studio tiers including free.",
+      "category": "3d",
+      "tags": [
+        "text-to-3d",
+        "image-to-3d",
+        "autodesk",
+        "game-assets",
+        "editable"
+      ],
+      "pricing": "freemium",
       "isNew": true
     }
   ]
