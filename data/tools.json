@@ -1054,6 +1054,19 @@
       "pricing": "free"
     },
     {
+      "name": "Roblox GUI Maker",
+      "url": "https://robloxguimaker.dev/",
+      "description": "Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.",
+      "category": "gamedev",
+      "tags": [
+        "roblox",
+        "ui",
+        "screen-gui",
+        "lua"
+      ],
+      "pricing": "free"
+    },
+    {
       "name": "DreamGen",
       "url": "https://dreamgen.com/",
       "description": "Story generation with role-play mode for multi-character interactions. Useful for game dialogue and lore.",
