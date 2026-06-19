@@ -3237,7 +3237,7 @@
     {
       "name": "Tripo P1.0",
       "url": "https://www.tripo3d.ai",
-      "description": "Production-grade native 3D diffusion model launched at GDC 2026. Generates game-engine-ready assets in 2 seconds via native 3D paradigm — no multi-view assembly. Handles modeling, texturing, retopology, and rigging with clean topology.",
+      "description": "Production-grade native 3D diffusion model launched at GDC 2026. Generates game-engine-ready assets in 2 seconds via native 3D paradigm \u2014 no multi-view assembly. Handles modeling, texturing, retopology, and rigging with clean topology.",
       "category": "3d",
       "tags": [
         "game-ready",
@@ -7164,6 +7164,23 @@
         "open-source",
         "ai-copilot",
         "self-hosted"
+      ],
+      "pricing": "open-source",
+      "isNew": true
+    },
+    {
+      "name": "NotFair",
+      "url": "https://github.com/nowork-studio/NotFair",
+      "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.",
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "google-ads",
+        "meta-ads",
+        "open-source",
+        "claude-code",
+        "mcp",
+        "agent-skills"
       ],
       "pricing": "open-source",
       "isNew": true
