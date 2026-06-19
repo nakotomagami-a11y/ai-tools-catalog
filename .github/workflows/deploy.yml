@@ -54,6 +54,7 @@ jobs:
 
       - name: Sync to live
         run: |
+          mkdir -p /srv/sites/arturas.digital/lab/ai-tools-catalog
           rsync -a --delete --checksum \
             /tmp/deploy-ai-${{ github.run_id }}/ \
             /srv/sites/arturas.digital/lab/ai-tools-catalog/
