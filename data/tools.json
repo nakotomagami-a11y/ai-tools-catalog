@@ -888,6 +888,18 @@
       "pricing": "freemium"
     },
     {
+      "name": "Roblox GUI Maker",
+      "url": "https://robloxguimaker.dev/",
+      "description": "Free AI Roblox Studio GUI generator for ScreenGui layouts and Lua starter code from natural language prompts.",
+      "category": "gamedev",
+      "tags": [
+        "roblox",
+        "ui generation",
+        "lua"
+      ],
+      "pricing": "free"
+    },
+    {
       "name": "SEELE AI Sprite Generator",
       "url": "https://www.seeles.ai/features/tools/sprite.html",
       "description": "Creates pixel art, animated sprite sheets, and 2D game assets from text. Compatible with Unity, Godot, GameMaker.",
