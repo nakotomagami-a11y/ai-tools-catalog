@@ -78,6 +78,21 @@
   ],
   "tools": [
     {
+      "name": "Remio",
+      "url": "https://remio.ai",
+      "description": "Local-first AI memory and personal knowledge base that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused context retrieval.",
+      "category": "productivity",
+      "tags": [
+        "knowledge-base",
+        "ai-memory",
+        "local-first",
+        "personal-context",
+        "productivity"
+      ],
+      "pricing": "freemium",
+      "isNew": true
+    },
+    {
       "name": "GitHub Copilot Free",
       "url": "https://github.com/features/copilot",
       "description": "AI code completions and chat inside VS Code, JetBrains, and Neovim. 2,000 completions/month on the free tier.",
