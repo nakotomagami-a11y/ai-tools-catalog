@@ -126,8 +126,8 @@
     },
     {
       "name": "Windsurf",
-      "url": "https://windsurf.com/",
-      "description": "AI-powered code editor (formerly Codeium) with unlimited autocomplete on the free tier. Acquired by Cognition AI (makers of Devin) in Dec 2025. Supports 70+ languages.",
+      "url": "https://devin.ai/desktop",
+      "description": "AI-powered IDE with built-in code generation, chat, and agentic workflows; now part of Cognition AI.",
       "category": "coding",
       "tags": [
         "ide",
@@ -924,18 +924,6 @@
       "pricing": "freemium"
     },
     {
-      "name": "LoreCraft AI",
-      "url": "https://lorecraft.ai/",
-      "description": "AI dialogue generator with native export for RPG Maker, Unity, Godot, and Unreal. 50 free daily generations.",
-      "category": "gamedev",
-      "tags": [
-        "dialogue",
-        "rpg",
-        "narrative"
-      ],
-      "pricing": "freemium"
-    },
-    {
       "name": "SFX Engine",
       "url": "https://sfxengine.com/",
       "description": "Generates unlimited unique sound effects from text prompts. Designed for games, videos, and podcasts.",
@@ -1379,18 +1367,6 @@
       "pricing": "open-source"
     },
     {
-      "name": "CADScribe",
-      "url": "https://cadscribe.ai",
-      "description": "Generates 3D CAD components from text descriptions, focused on technical/mechanical parts.",
-      "category": "3d",
-      "tags": [
-        "cad",
-        "mechanical",
-        "engineering"
-      ],
-      "pricing": "free"
-    },
-    {
       "name": "ComfyUI-3D-Pack",
       "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
       "description": "Node suite for ComfyUI enabling 3D processing with Gaussian Splatting, NeRF, mesh and UV workflows.",
@@ -1688,7 +1664,7 @@
     },
     {
       "name": "ChatGPT Free",
-      "url": "https://chat.openai.com",
+      "url": "https://chatgpt.com",
       "description": "OpenAI's general-purpose AI assistant for writing, research, coding. GPT-4o limited free access.",
       "category": "productivity",
       "tags": [
@@ -1866,7 +1842,7 @@
     },
     {
       "name": "GPT4All",
-      "url": "https://gpt4all.io",
+      "url": "https://nomic.ai/gpt4all",
       "description": "Run LLMs locally on consumer hardware. No internet needed.",
       "category": "productivity",
       "tags": [
@@ -2077,8 +2053,8 @@
     },
     {
       "name": "Windsurf Pro",
-      "url": "https://windsurf.com",
-      "description": "AI-powered IDE with agentic flows. Lower-cost alternative to Cursor.",
+      "url": "https://devin.ai/desktop",
+      "description": "Pro tier of the Windsurf AI-powered IDE with extended context and premium model access; now part of Cognition AI.",
       "category": "coding",
       "tags": [
         "ide",
@@ -2432,7 +2408,7 @@
     },
     {
       "name": "Vizcom",
-      "url": "https://vizcom.ai",
+      "url": "https://vizcom.com",
       "description": "AI-powered industrial design tool. Turns rough sketches into photorealistic renders in seconds.",
       "category": "design",
       "tags": [
@@ -2506,7 +2482,7 @@
     },
     {
       "name": "v0 Premium",
-      "url": "https://v0.dev",
+      "url": "https://v0.app",
       "description": "AI-powered UI generation creating React/Next.js components from prompts with Vercel deployment.",
       "category": "design",
       "tags": [
@@ -2636,19 +2612,6 @@
       ],
       "pricing": "paid",
       "price": "$12/mo"
-    },
-    {
-      "name": "Blockade Labs Skybox",
-      "url": "https://skybox.blockadelabs.com",
-      "description": "AI 360-degree environment and skybox generator for games, VR, and architectural visualization.",
-      "category": "3d",
-      "tags": [
-        "skybox",
-        "360 environment",
-        "vr"
-      ],
-      "pricing": "paid",
-      "price": "$20/mo"
     },
     {
       "name": "Polycam Pro",
@@ -2901,19 +2864,6 @@
       ],
       "pricing": "paid",
       "price": "$20/mo"
-    },
-    {
-      "name": "ChatGPT Pro",
-      "url": "https://openai.com/chatgpt/pricing",
-      "description": "Unlimited access to all OpenAI models including o1 pro mode for complex reasoning.",
-      "category": "productivity",
-      "tags": [
-        "ai chat",
-        "reasoning",
-        "unlimited"
-      ],
-      "pricing": "paid",
-      "price": "$200/mo"
     },
     {
       "name": "Claude Pro",
@@ -3237,7 +3187,7 @@
     {
       "name": "Tripo P1.0",
       "url": "https://www.tripo3d.ai",
-      "description": "Production-grade native 3D diffusion model launched at GDC 2026. Generates game-engine-ready assets in 2 seconds via native 3D paradigm — no multi-view assembly. Handles modeling, texturing, retopology, and rigging with clean topology.",
+      "description": "Production-grade native 3D diffusion model launched at GDC 2026. Generates game-engine-ready assets in 2 seconds via native 3D paradigm \u2014 no multi-view assembly. Handles modeling, texturing, retopology, and rigging with clean topology.",
       "category": "3d",
       "tags": [
         "game-ready",
@@ -3297,7 +3247,7 @@
     },
     {
       "name": "Kling 3.0",
-      "url": "https://klingai.com",
+      "url": "https://kling.ai",
       "description": "Multi-shot video sequences with subject consistency across camera angles, plus multi-character native audio.",
       "category": "audio-video",
       "tags": [
@@ -4424,7 +4374,7 @@
     },
     {
       "name": "Kling AI",
-      "url": "https://klingai.com/",
+      "url": "https://kling.ai",
       "description": "Kuaishou's video generation model producing photorealistic people and fluid movements. Kling 3 Pro adds audio and voice IDs with excellent lip-sync.",
       "category": "audio-video",
       "tags": [
@@ -4452,7 +4402,7 @@
     },
     {
       "name": "Flux 2",
-      "url": "https://blackforestlabs.ai/",
+      "url": "https://bfl.ai",
       "description": "Black Forest Labs' next-gen image model excelling at photorealism with exceptional skin textures and natural lighting. Powers many creative workflows.",
       "category": "design",
       "tags": [
@@ -4574,20 +4524,6 @@
         "api"
       ],
       "pricing": "freemium",
-      "isNew": true
-    },
-    {
-      "name": "FastMCP",
-      "url": "https://fastmcp.me/",
-      "description": "Directory and framework for discovering, comparing, and deploying MCP servers. Helps developers find the right MCP tools for their workflows.",
-      "category": "coding",
-      "tags": [
-        "mcp",
-        "directory",
-        "developer-tools",
-        "framework"
-      ],
-      "pricing": "free",
       "isNew": true
     },
     {
@@ -4887,7 +4823,7 @@
     },
     {
       "name": "GPT Image 1.5",
-      "url": "https://platform.openai.com/docs/guides/image-generation",
+      "url": "https://developers.openai.com/api/docs/guides/image-generation",
       "description": "OpenAI's autoregressive image model (successor to DALL-E). 4x faster, 20% cheaper API, image-to-image transforms, and viral Ghibli-style capability.",
       "category": "design",
       "tags": [
@@ -5100,20 +5036,6 @@
       "isNew": true
     },
     {
-      "name": "GenCast",
-      "url": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions/",
-      "description": "DeepMind's diffusion-based weather model delivering 15-day ensemble forecasts in ~8 minutes, outperforming ECMWF in 97%+ of tests.",
-      "category": "science",
-      "tags": [
-        "weather-forecasting",
-        "climate",
-        "deepmind",
-        "diffusion"
-      ],
-      "pricing": "free",
-      "isNew": true
-    },
-    {
       "name": "Microsoft Aurora",
       "url": "https://www.microsoft.com/en-us/research/project/aurora/",
       "description": "AI weather model outperforming ECMWF in 90%+ of tests. 15-20% more accurate than top traditional models for hurricane prediction.",
@@ -5270,7 +5192,7 @@
     },
     {
       "name": "OpenAI Operator",
-      "url": "https://operator.chatgpt.com/",
+      "url": "https://chatgpt.com/?system_hints=agent",
       "description": "ChatGPT-integrated browser agent that auto-pilots web tasks like booking, purchasing, and account management.",
       "category": "productivity",
       "tags": [
@@ -5284,8 +5206,8 @@
     },
     {
       "name": "MultiOn",
-      "url": "https://multion.ai/",
-      "description": "Autonomous web agent API that handles transactional tasks like booking flights and filling forms across websites.",
+      "url": "https://www.theagi.company/",
+      "description": "AI web agent that can browse, research, and take actions autonomously in any web application (company rebranded to AGI).",
       "category": "coding",
       "tags": [
         "browser-automation",
@@ -5390,20 +5312,6 @@
         "tts",
         "low-latency",
         "voice-agents"
-      ],
-      "pricing": "freemium",
-      "isNew": true
-    },
-    {
-      "name": "PlayHT",
-      "url": "https://play.ht/",
-      "description": "Enterprise-grade text-to-speech with custom voice training, multi-language support, and scalable API.",
-      "category": "audio-video",
-      "tags": [
-        "tts",
-        "voice-cloning",
-        "enterprise",
-        "api"
       ],
       "pricing": "freemium",
       "isNew": true
@@ -5621,20 +5529,6 @@
       "isNew": true
     },
     {
-      "name": "Tome",
-      "url": "https://tome.app/",
-      "description": "AI-powered sales enablement tool generating sales-focused presentations and content from prompts for B2B teams.",
-      "category": "marketing",
-      "tags": [
-        "sales-enablement",
-        "presentations",
-        "ai-content",
-        "b2b"
-      ],
-      "pricing": "paid",
-      "isNew": true
-    },
-    {
       "name": "D-ID",
       "url": "https://d-id.com/",
       "description": "Create lifelike AI avatars from images and videos with sub-2-second response. Used for customer-facing video, training, and marketing.",
@@ -5778,8 +5672,8 @@
     },
     {
       "name": "Afforai",
-      "url": "https://afforai.com/",
-      "description": "AI research assistant for multi-document Q&A with citation tracking. Upload papers for cross-reference analysis.",
+      "url": "https://logically.app/",
+      "description": "AI research assistant for summarizing, translating, and chatting with multiple documents simultaneously (rebranded from Afforai).",
       "category": "productivity",
       "tags": [
         "research",
@@ -5834,8 +5728,8 @@
     },
     {
       "name": "Google Genie 3",
-      "url": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
-      "description": "DeepMind's real-time interactive world model generating persistent 3D environments from text and images. Groundbreaking research.",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "description": "DeepMind's real-time interactive world model generating persistent 3D environments from text, images, or sketches. Available to Google AI Ultra subscribers. Generates explorable worlds at 24fps/720p that maintain world state for minutes.",
       "category": "3d",
       "tags": [
         "world-model",
@@ -5843,9 +5737,7 @@
         "interactive",
         "deepmind"
       ],
-      "pricing": "upcoming",
-      "status": "Research Preview",
-      "isNew": true
+      "pricing": "paid"
     },
     {
       "name": "Warp Terminal",
@@ -6684,8 +6576,8 @@
     },
     {
       "name": "Lacework",
-      "url": "https://lacework.net/",
-      "description": "Cloud security using anomaly detection and behavioral analytics to identify threats across multi-cloud with automated compliance.",
+      "url": "https://www.fortinet.com/products/forticnapp",
+      "description": "Cloud-native security platform with AI-powered threat detection, acquired by Fortinet (now FortiCNAPP).",
       "category": "security",
       "tags": [
         "cloud-security",
@@ -7245,19 +7137,146 @@
       "isNew": true
     },
     {
-      "name": "Autodesk Wonder 3D",
-      "url": "https://www.autodesk.com/campaigns/flow-studio",
-      "description": "Generative AI model inside Autodesk Flow Studio that turns text prompts or reference images into fully editable 3D characters and props. Available across all Flow Studio tiers including free.",
+      "name": "VoltAgent",
+      "url": "https://voltagent.dev/",
+      "description": "Observability-first open-source TypeScript framework for building AI agents with memory, tools, RAG, guardrails, and multi-agent orchestration. Includes cloud or self-hosted VoltOps console for LLM monitoring.",
+      "category": "infrastructure",
+      "tags": [
+        "typescript",
+        "agent-framework",
+        "observability",
+        "multi-agent",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
+      "name": "Nanobot",
+      "url": "https://nanobot.club/",
+      "description": "Ultra-lightweight open-source personal AI agent by HKU Data Science Lab. Runs a minimal core with WebUI, sustained goals, MCP support, image generation, and routing across 50+ integrations and channels.",
+      "category": "productivity",
+      "tags": [
+        "personal-assistant",
+        "lightweight",
+        "mcp",
+        "multi-channel",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
+      "name": "Agno",
+      "url": "https://www.agno.com/",
+      "description": "Open-source Python framework for building multimodal AI agents with memory, knowledge retrieval, and tool integrations. Agent runtime initializes in under 2 microseconds with ~3.75 KB memory per agent instance.",
+      "category": "infrastructure",
+      "tags": [
+        "python",
+        "agent-framework",
+        "multimodal",
+        "rag",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
+      "name": "NVIDIA Dynamo",
+      "url": "https://developer.nvidia.com/dynamo",
+      "description": "Open-source distributed inference serving framework for AI models at datacenter scale. Disaggregates inference phases across GPUs, routes requests intelligently, and supports vLLM, SGLang, and TensorRT-LLM backends.",
+      "category": "infrastructure",
+      "tags": [
+        "inference",
+        "distributed",
+        "gpu",
+        "llm-serving",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
+      "name": "Coze Studio",
+      "url": "https://github.com/coze-dev/coze-studio",
+      "description": "ByteDance's open-source visual AI agent development platform. Drag-and-drop builder for creating agents, workflows, and apps with RAG, plugins, and custom Python nodes. Golang backend with React frontend, Apache 2.0.",
+      "category": "infrastructure",
+      "tags": [
+        "agent-builder",
+        "visual",
+        "workflow",
+        "rag",
+        "open-source"
+      ],
+      "pricing": "open-source"
+    },
+    {
+      "name": "Emergent",
+      "url": "https://emergent.sh/",
+      "description": "Full-stack vibe coding platform where you describe an app in plain language and AI builds it with real tech \u2014 React, Next.js, FastAPI, MongoDB. Generates production-grade code that syncs to GitHub with no vendor lock-in.",
+      "category": "coding",
+      "tags": [
+        "vibe-coding",
+        "full-stack",
+        "app-builder",
+        "react",
+        "next.js"
+      ],
+      "pricing": "freemium"
+    },
+    {
+      "name": "Mina Meeting Assistant",
+      "url": "https://getmina.ai/",
+      "description": "AI meeting assistant that actively participates during Zoom, Meet, and Teams calls \u2014 not just transcribing but answering questions, pulling data points, filing tickets, and sending follow-ups in real time.",
+      "category": "productivity",
+      "tags": [
+        "meeting",
+        "ai-assistant",
+        "voice",
+        "action-items",
+        "automation"
+      ],
+      "pricing": "freemium"
+    },
+    {
+      "name": "Typeahead",
+      "url": "https://typeahead.ai/",
+      "description": "System-wide AI autocomplete for Mac that works across every text field \u2014 email, Slack, Notion, editors. Runs a local AI model on-device for privacy, works offline, and suggests inline completions as you type.",
+      "category": "productivity",
+      "tags": [
+        "autocomplete",
+        "mac",
+        "local-ai",
+        "writing",
+        "privacy"
+      ],
+      "pricing": "paid",
+      "price": "$79 one-time"
+    },
+    {
+      "name": "Autodesk Flow Studio",
+      "url": "https://www.autodesk.com/products/flow-studio/overview",
+      "description": "AI-powered 3D production pipeline with Wonder 3D generative AI. Turn text or images into editable 3D characters, creatures, and props in seconds via Text to 3D, Image to 3D, and Text to Image workflows.",
       "category": "3d",
       "tags": [
+        "3d-generation",
         "text-to-3d",
         "image-to-3d",
-        "autodesk",
-        "game-assets",
-        "editable"
+        "vfx",
+        "game-dev"
       ],
-      "pricing": "freemium",
-      "isNew": true
+      "pricing": "freemium"
+    },
+    {
+      "name": "Wispr Flow",
+      "url": "https://wisprflow.ai/",
+      "description": "AI voice dictation that works system-wide on Mac, adapting writing style per app \u2014 casual for messaging, formal for email. Removes filler words, applies smart punctuation, and supports sessions up to 20 minutes.",
+      "category": "productivity",
+      "tags": [
+        "voice-dictation",
+        "mac",
+        "transcription",
+        "writing-assistant",
+        "ai"
+      ],
+      "pricing": "paid",
+      "price": "$12/mo"
     }
   ]
 }
