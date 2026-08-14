@@ -1,77 +1,32 @@
 # AI Tools Catalog
 
-A curated catalog of **484 AI tools** across 15 categories — discover the best AI-powered tools for coding, design, 3D, audio/video, productivity, robotics, science, infrastructure, education, and more.
+A curated dataset of **~490 AI tools** across 15 categories — coding, design, 3D,
+audio/video, productivity, robotics, science, infrastructure, education, and more.
 
-**[Live Demo](https://arturas.digital/lab/ai-tools-catalog/)**
+This repo is a **pure data source**. There is no app here anymore — the catalog is
+rendered by [arturas.digital](https://arturas.digital/), which fetches
+`data/tools.json` directly from this repo's `master` branch at runtime:
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-## Categories
-
-| Category | Tools | Examples |
-|----------|-------|---------|
-| **Productivity** | 78 | AI assistants, search, writing, agents, research, automation |
-| **Coding & Dev** | 68 | Code completion, IDEs, browser agents, agent frameworks, testing |
-| **UI & Design** | 60 | Design-to-code, image generation, photo editing, prototyping |
-| **Audio & Video** | 57 | Music gen, voice AI, video editing, avatars, TTS |
-| **3D & Motion** | 54 | 3D generation, architecture, Blender tools, mocap, NeRF |
-| **Robotics & Physical AI** | 38 | Humanoids, drones, autonomous vehicles, surgery, simulation, agriculture |
-| **Game Dev** | 27 | Sprites, NPC AI, level gen, game audio, game engines |
-| **Data & Analytics** | 19 | SQL tools, notebooks, ETL, data quality, dashboards, BI |
-| **Marketing & SEO** | 17 | SEO, social media, email marketing, ad creatives, content strategy |
-| **Finance & Trading** | 16 | Crypto analytics, trading bots, DeFi, portfolio, stock scanning |
-| **Security** | 15 | Endpoint protection, cloud security, threat detection, NDR, SIEM |
-| **AI Infrastructure** | 14 | Inference, vector DBs, MLOps, model serving, LLM observability |
-| **Science & Research** | 12 | Drug discovery, cheminformatics, bioinformatics, weather AI, lab tools |
-| **Education** | 9 | AI tutoring, coding education, flashcards, study tools, grading |
-
-## Features
-
-- **Category filtering** — browse by 15 categories including coding, design, 3D, robotics, science, education, and more
-- **Pricing filters** — filter by free, freemium, open-source, paid, or upcoming tools
-- **Full-text search** — search across names, descriptions, and tags
-- **Price display** — see pricing info at a glance for paid tools
-- **Lazy loading** — loads entries in batches for fast initial render
-- **Responsive design** — works on desktop and mobile
-
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-npm start
+```
+https://raw.githubusercontent.com/nakotomagami-a11y/ai-tools-catalog/master/data/tools.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the catalog.
-
-## Project Structure
+## Contents
 
 ```
 ├── data/
-│   └── tools.json            # All 484 tool entries
-├── modules/
-│   └── catalog/
-│       ├── components/       # UI components
-│       └── hooks/            # Custom React hooks
-├── pages/                    # Next.js pages
-├── shared/
-│   ├── config/               # Categories and filter options
-│   └── types/                # TypeScript interfaces
-├── styles/                   # Global CSS
-└── PROMPTS.md                # Maintenance prompts for updating the catalog
+│   ├── tools.json       # every tool entry (source of truth, consumed by arturas.digital)
+│   └── blacklist.json   # rejected tools that must never be re-added
+├── PROMPTS.md           # copy-paste maintenance prompts for Claude Code
+├── PRIORITIES.md        # which categories to prioritise when researching
+└── SENTIMENT.md         # spec for the optional "what people say" sentiment field
 ```
 
-## Adding Tools
+`tools.json` is `{ "categories": [...], "tools": [...] }`.
 
-Add new entries to `data/tools.json` following this schema:
+## Adding tools
+
+Add entries to the `tools` array in `data/tools.json` following this schema:
 
 ```json
 {
@@ -90,12 +45,13 @@ Add new entries to `data/tools.json` following this schema:
 **Price**: optional, e.g. `"$20/mo"` (for paid/freemium tools)
 **Status**: optional, e.g. `"Beta"`, `"Coming Q2 2026"` (for upcoming tools)
 
-## Tech Stack
+Keep the file valid JSON — that is the only build step. Changes go live on
+arturas.digital as soon as they land on `master`.
 
-- **Framework**: Next.js (React)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS + custom CSS
-- **Data**: Static JSON loaded at build time via `getStaticProps`
+## Maintenance
+
+See `PROMPTS.md` for the copy-paste prompts used to research and audit tools with
+Claude Code.
 
 ## License
 

@@ -27,7 +27,7 @@ For each new tool found, add it to the "tools" array in data/tools.json followin
 
 Also check if any tools currently marked as "upcoming" have been fully released — if so, update their pricing field to the correct tier and remove the status field.
 
-After updating tools.json, open the site in the browser to verify the changes render correctly.
+After updating tools.json, confirm the file is still valid JSON (`jq . data/tools.json`). It is consumed live by arturas.digital straight from the master branch.
 ```
 
 ---
@@ -44,7 +44,7 @@ Read data/tools.json to get the current list of tools. Then audit EVERY tool in 
 5. **Duplicate entries**: Same tool listed under slightly different names → REMOVE the duplicate, keep the better entry
 6. **Category mismatch**: Tool better fits a different category now → UPDATE category
 
-For each change made, briefly note what changed and why. After updating tools.json, open the site in the browser to verify nothing is broken.
+For each change made, briefly note what changed and why. After updating tools.json, confirm the file is still valid JSON (`jq . data/tools.json`).
 ```
 
 ---
