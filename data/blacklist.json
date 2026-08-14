@@ -1,4 +1,20 @@
 {
   "description": "Tools tested and rejected. Never add these back to the catalog.",
-  "entries": []
+  "entries": [
+    {
+      "name": "Toprank",
+      "url": "https://github.com/nowork-studio/toprank",
+      "reason": "Self-promotion PR (#4). Low-signal Claude Code SEO plugin submitted by its own author."
+    },
+    {
+      "name": "NotFair",
+      "url": "https://github.com/nowork-studio/NotFair",
+      "reason": "Self-promotion PR (#7) from the same author as Toprank."
+    },
+    {
+      "name": "Roblox GUI Maker",
+      "url": "https://robloxguimaker.dev/",
+      "reason": "Self-submitted SEO/affiliate site, duplicate spam PRs (#5, #6)."
+    }
+  ]
 }
